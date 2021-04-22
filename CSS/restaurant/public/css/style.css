@@ -1,0 +1,63 @@
+*{box-sizing: border-box;}
+p,h1,h2,h3,a,ul{padding: 0;margin: 0;}
+@font-face {
+	font-family: 'Aachen BT';
+    src: url('../font/Aachen\ BT.ttf');    
+}
+@font-face {
+	font-family: 'Montserrat-Bold';
+    src: url('../font/Montserrat-Bold.ttf');      
+}
+a,a:hover{text-decoration: none;}
+li{list-style: none;}
+img{width: 100%;}
+body{background: #1d1d23;}
+h1{font: 67px Aachen BT; color: #e58f00;  }
+h2{font: 50px Aachen BT; color: #fff;}
+h3{font: 27px Aachen BT; color: #e58f00; padding-top: 35px;}
+.section2{margin-top: 240px;}
+.section3{margin: 120px 0 70px 0;}
+.section5{margin : 185px 0 150px;}
+.section7{margin-top: 160px;}
+.section8{margin-top: 170px;}
+.header ul{width: 400px;}
+.nav-link{font: 16px Aachen BT; color: #fff!important;} 
+.nav-link.active,.nav-link:hover{  color: #e58f00!important;}
+.header{background: #28282d;    padding-top: 20px; }
+.navbar-expand .navbar-nav .nav-link {padding:  25px  ;text-transform: uppercase;}
+.navbar-expand .navbar-nav .nav-item:first-child .nav-link {padding-left:   15px;}
+.navbar-expand .navbar-nav .nav-item:last-child .nav-link {padding-right:   15px  ;}
+.banner{background: url(../image/banner_bg.png)center/cover ;min-height: 852px;}
+.body_text{font: 25px Aachen BT; color: #fff;}
+.body_text{padding-top: 20px;}
+.banner .button{margin-top: 36px;}
+.button a{font: 25px Aachen BT;color: #28282d;line-height:70px;background: #e58f00;border-radius: 3px;padding: 20px 38px ;}
+.about_us .body_text{font: 33px Aachen BT; color: #fff;}
+.quality{background: url(../image/quality.png) center/cover ;min-height: 1826px;}
+.quality .row{height: 1270px;}
+.quality .col-md-6{padding-left: 130px;}
+.gallery_heading{text-align: center;padding-bottom: 95px;}
+.gallery_inner .col-md-4{padding-bottom: 33px;}
+.enjoy_our_foods{background: url(../image/enjoy.png) center/cover;height: auto;}
+.enjoy_our_foods .row{display: flex;justify-content: center;text-align: center;align-items: center;height: 960px;}
+.enjoy_our_foods .enjoy_inner{background: rgba(29,29,35,1); border: 10px solid #e58f00;padding:85px 100px 100px}
+.menu .body_text{font: 16px/20px Aachen BT;color: #fff;padding-top: 13px;}
+.price{font: 25px Aachen BT;color: #e58f00;padding-top: 15px;}
+.meal .col-md-6:nth-child(1){visibility: hidden;}
+.meal .col-md-5{padding: 0 0 100px 50px;}
+.meal{background:#e58f00; height: 500px;position: relative;}
+.meal::before{position: absolute;content: "";background: url(../image/meal.png);left: -10px;top:-80px;width: 635px;height: 635px;}
+footer{background: #333239;padding: 75px 0 100px 0;}
+footer .row{display: grid;}
+footer .quick_link{margin-top: 50px;}
+footer .link{display: inline;}
+footer .link a{font: 21px Montserrat-Bold;text-transform: uppercase;color: #fff; padding: 20px;}
+footer .link:hover a{ color: #e58f00;}
+footer .social{margin-top: 45px  ;}
+footer .social li{display: inline-block;margin: 0 10px;}
+footer .social li:hover{background-color: #e58f00;border-radius: 50%;}
+footer .social li a{ background: url(../image/sprite.png); width: 46px;height: 46px;display: block;}
+footer .social li .twitter{ background-position: -71px 0;  }
+footer .social li .insta{ background-position: -142px 0 ;  }
+footer .social li .pinterest{ background-position: -213px 0 ;  }  
+.quality img{display: none;}

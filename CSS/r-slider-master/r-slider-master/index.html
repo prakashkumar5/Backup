@@ -1,0 +1,136 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+    <script src="r-slider.js"></script>
+<!-- <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css"> -->
+    <title>jQuery r-slider Multi Purpose Range Slider Examples</title>
+    <style>
+    h1 { margin: 150px auto 30px auto; text-align: center; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            border: 1px solid #aaa;
+            position: relative;
+        }
+
+        .result {
+            width: 80px;
+            text-align: center;
+            font-size: 12px;
+            color: #888;
+        }
+
+        .code {
+            width: 200px;
+        }
+        strong {
+            background: #eee;
+        }
+        .container {
+            width:200px;
+        }
+
+
+        .switch {
+            width: 40px;
+            height: 10px;
+            position: absolute;
+            left: calc(50% - 20px);
+            top: calc(50% - 5px);
+            border: 1px solid #aaa;
+            border-radius: 20px;
+        }
+
+        .r-slider-button {
+            background: #2196f3;
+            border-radius: 100%;
+            text-align: center;
+        }
+
+        .r-slider-line {
+            background: #ccc;
+        }
+
+        .r-slider-fill {
+            background: #2196f3;
+        }
+
+        .r-slider-number {
+            position: absolute;
+            background: #000;
+            color: #fff;
+            width: 28px;
+            left: calc(50% - 14px);
+            top: -16px;
+            font-size: 12px;
+            border-radius: 3px;
+        }
+
+        .r-slider-text {
+            font-size: 10px;
+            text-align: center;
+        }
+
+        .r-slider-pin {
+            background: #ccc;
+        }
+
+        .r-slider-label {
+            font-size: 10px;
+            top: 16px;
+        }
+
+
+    </style>
+</head>
+
+<body>
+  
+  
+   
+        
+            <div id="dri_count" class="container"></div>
+            <span class="result" id="res">45</span>
+           
+       
+
+        
+
+   
+
+    <script>
+        
+        var a11 = new slider({
+            container: "#dri_count",
+            start: 0,
+            end: 100,
+            step: 5,
+            value: 0,
+            showValue: false,
+            ondrag: change,
+            pinStep: 5,
+            labelStep: 15
+        });
+ 
+
+        setInterval(function () {
+            var value = a9.getValue()[0];
+            if (value >= 100) { value = 0; }
+            a9.setValue([value + 3]);
+        }, 50);
+        function change(obj1) { 
+            $('#res').html(obj1.values.toString()) 
+        }
+      
+    </script>
+</body>
+ 
+</html>
