@@ -1,0 +1,1641 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="5889" viewBox="0 0 1366 5889">
+  <defs>
+    <filter id="Rectangle_8" x="124" y="793" width="111" height="111" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8-2" x="503" y="793" width="111" height="111" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8-3" x="882" y="793" width="111" height="111" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 2866 1331">
+      <image width="2866" height="1331" xlink:href="Ayush%20mart%20-%20Homepage-image.jpg"/>
+    </pattern>
+    <filter id="Best_deal_with_lowest_price." x="130" y="339" width="499" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 2567 490">
+      <image width="2567" height="490" xlink:href="Ayush%20mart%20-%20Homepage-image2.png"/>
+    </pattern>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="22" height="22" fill="#55c19f" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="22" height="22" transform="translate(0.372)" fill="#55c19f" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="22" height="22" transform="translate(0.298)" fill="#55c19f" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="22" height="22" transform="translate(-0.104)" fill="#55c19f" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_147" data-name="Rectangle 147" width="22" height="22" transform="translate(-0.248)" fill="#55c19f" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="22" height="22" transform="translate(0)" fill="#55c19f" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 480 663">
+      <image width="480" height="663" xlink:href="Ayush%20mart%20-%20Homepage-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 2284 600">
+      <image width="2284" height="600" xlink:href="Ayush%20mart%20-%20Homepage-image4.png"/>
+    </pattern>
+    <pattern id="pattern-9" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 480 647">
+      <image width="480" height="647" xlink:href="Ayush%20mart%20-%20Homepage-image7.png"/>
+    </pattern>
+    <pattern id="pattern-12" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1000 750">
+      <image width="1000" height="750" xlink:href="Ayush%20mart%20-%20Homepage-image8.png"/>
+    </pattern>
+    <pattern id="pattern-13" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 2010 600">
+      <image width="2010" height="600" xlink:href="Ayush%20mart%20-%20Homepage-image10.png"/>
+    </pattern>
+    <pattern id="pattern-15" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 215 302">
+      <image width="215" height="302" xlink:href="Ayush%20mart%20-%20Homepage-image11.png"/>
+    </pattern>
+    <filter id="Ellipse_5" x="133.602" y="3084" width="186" height="186" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5-2" x="436" y="3084" width="185" height="186" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-6"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5-3" x="737" y="3084" width="186" height="186" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-7"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5-4" x="1041" y="3084" width="186" height="186" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-8"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-18" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1500 1125">
+      <image width="1500" height="1125" xlink:href="Ayush%20mart%20-%20Homepage-image13.png"/>
+    </pattern>
+    <filter id="gty-ProductPage-Image-Grocery" x="982" y="3364" width="345" height="417" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-19" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 640 960">
+      <image width="640" height="960" xlink:href="Ayush%20mart%20-%20Homepage-image15.jpg"/>
+    </pattern>
+    <pattern id="pattern-20" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 2520 600">
+      <image width="2520" height="600" xlink:href="Ayush%20mart%20-%20Homepage-image16.png"/>
+    </pattern>
+    <pattern id="pattern-21" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 640 960">
+      <image width="640" height="960" xlink:href="Ayush%20mart%20-%20Homepage-image17.jpg"/>
+    </pattern>
+    <pattern id="pattern-23" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 640 427">
+      <image width="640" height="427" xlink:href="Ayush%20mart%20-%20Homepage-image18.jpg"/>
+    </pattern>
+    <pattern id="pattern-25" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 640 960">
+      <image width="640" height="960" xlink:href="Ayush%20mart%20-%20Homepage-image19.jpg"/>
+    </pattern>
+    <pattern id="pattern-27" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1333 1851">
+      <image width="1333" height="1851" xlink:href="Ayush%20mart%20-%20Homepage-image21.png"/>
+    </pattern>
+    <pattern id="pattern-28" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 175 443">
+      <image width="175" height="443" xlink:href="Ayush%20mart%20-%20Homepage-image22.png"/>
+    </pattern>
+    <pattern id="pattern-30" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1024 1024">
+      <image width="1024" height="1024" xlink:href="Ayush%20mart%20-%20Homepage-image25.jpg"/>
+    </pattern>
+    <pattern id="pattern-32" width="1" height="1" viewBox="87.106 0 250 302">
+      <image preserveAspectRatio="xMidYMid slice" width="536.889" height="302" xlink:href="Ayush%20mart%20-%20Homepage-image26.jpg"/>
+    </pattern>
+    <pattern id="pattern-34" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 455 494">
+      <image width="455" height="494" xlink:href="Ayush%20mart%20-%20Homepage-image27.png"/>
+    </pattern>
+    <pattern id="pattern-36" width="1" height="1" viewBox="285.303 0 250 302">
+      <image preserveAspectRatio="xMidYMid slice" width="535.303" height="302" xlink:href="Ayush%20mart%20-%20Homepage-image28.jpg"/>
+    </pattern>
+    <filter id="Ellipse_21" x="894" y="5630" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_22" x="955" y="5630" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_23" x="1016" y="5630" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-38" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 4144 388">
+      <image width="4144" height="388" xlink:href="Ayush%20mart%20-%20Homepage-image29.png"/>
+    </pattern>
+    <clipPath id="clip-Ayush_mart_-_Homepage">
+      <rect width="1366" height="5889"/>
+    </clipPath>
+    <image id="image" width="220" height="120" xlink:href="Ayush%20mart%20-%20Homepage-image9.png"/>
+  </defs>
+  <g id="Ayush_mart_-_Homepage" data-name="Ayush mart - Homepage" clip-path="url(#clip-Ayush_mart_-_Homepage)">
+    <rect width="1366" height="5889" fill="#fff"/>
+    <g id="Group_22" data-name="Group 22" transform="translate(0 -12)">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1366" height="174" transform="translate(0 768)" fill="#2f4858" opacity="0.05"/>
+      <g id="Group_21" data-name="Group 21">
+        <g id="Group_18" data-name="Group 18" transform="translate(36)">
+          <g id="Group_15" data-name="Group 15" transform="translate(0 4)">
+            <text id="Best_Service_Provide" data-name="Best Service Provide" transform="translate(204 833)" fill="#1a1a1a" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Best Service Provide</tspan></text>
+            <text id="Quis_dolor_ad_mollit_nulla_enim_saincididunt_ut_ea_et_ipsum." data-name="Quis dolor ad mollit nulla enim saincididunt ut ea et ipsum." transform="translate(204 852)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Quis dolor ad mollit nulla enim </tspan><tspan x="0" y="35">saincididunt ut ea et ipsum.</tspan></text>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -36, 12)" filter="url(#Rectangle_8)">
+            <rect id="Rectangle_8-4" data-name="Rectangle 8" width="81" height="81" rx="40.5" transform="translate(139 803)" fill="#fff"/>
+          </g>
+          <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(132 844)">
+            <path id="Path_6" data-name="Path 6" d="M10,21a1,1,0,1,1-1-1A1,1,0,0,1,10,21Z" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_7" data-name="Path 7" d="M21,21a1,1,0,1,1-1-1A1,1,0,0,1,21,21Z" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_8" data-name="Path 8" d="M1,1H5L7.68,14.39a2,2,0,0,0,2,1.61H19.4a2,2,0,0,0,2-1.61L23,6H6" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_19" data-name="Group 19" transform="translate(415)">
+          <g id="Group_15-2" data-name="Group 15" transform="translate(0 4)">
+            <text id="Fast_Free_Shipping_" data-name="Fast &amp; Free Shipping " transform="translate(204 833)" fill="#1a1a1a" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Fast &amp; Free Shipping </tspan></text>
+            <text id="Quis_dolor_ad_mollit_nulla_enim_saincididunt_ut_ea_et_ipsum.-2" data-name="Quis dolor ad mollit nulla enim saincididunt ut ea et ipsum." transform="translate(204 852)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Quis dolor ad mollit nulla enim </tspan><tspan x="0" y="35">saincididunt ut ea et ipsum.</tspan></text>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -415, 12)" filter="url(#Rectangle_8-2)">
+            <rect id="Rectangle_8-5" data-name="Rectangle 8" width="81" height="81" rx="40.5" transform="translate(518 803)" fill="#fff"/>
+          </g>
+          <g id="Icon_feather-truck" data-name="Icon feather-truck" transform="translate(131.5 843.5)">
+            <path id="Path_9" data-name="Path 9" d="M1,3H16V16H1Z" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_10" data-name="Path 10" d="M16,8h4l3,3v5H16Z" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_11" data-name="Path 11" d="M8,18.5A2.5,2.5,0,1,1,5.5,16,2.5,2.5,0,0,1,8,18.5Z" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_12" data-name="Path 12" d="M21,18.5A2.5,2.5,0,1,1,18.5,16,2.5,2.5,0,0,1,21,18.5Z" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_20" data-name="Group 20" transform="translate(794)">
+          <g id="Group_15-3" data-name="Group 15" transform="translate(0 4)">
+            <text id="Secure_Payment" data-name="Secure Payment" transform="translate(204 833)" fill="#1a1a1a" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Secure Payment</tspan></text>
+            <text id="Quis_dolor_ad_mollit_nulla_enim_saincididunt_ut_ea_et_ipsum.-3" data-name="Quis dolor ad mollit nulla enim saincididunt ut ea et ipsum." transform="translate(204 852)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Quis dolor ad mollit nulla enim </tspan><tspan x="0" y="35">saincididunt ut ea et ipsum.</tspan></text>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -794, 12)" filter="url(#Rectangle_8-3)">
+            <rect id="Rectangle_8-6" data-name="Rectangle 8" width="81" height="81" rx="40.5" transform="translate(897 803)" fill="#fff"/>
+          </g>
+          <g id="Icon_feather-credit-card" data-name="Icon feather-credit-card" transform="translate(132 844)">
+            <path id="Path_13" data-name="Path 13" d="M3,4H21a2,2,0,0,1,2,2V18a2,2,0,0,1-2,2H3a2,2,0,0,1-2-2V6A2,2,0,0,1,3,4Z" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_14" data-name="Path 14" d="M1,10H23" fill="none" stroke="#55c19f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1486" data-name="Group 1486">
+      <g id="Group_1469" data-name="Group 1469" transform="translate(0 -12)">
+        <rect id="hero-img" width="1366" height="573" transform="translate(0 195)" fill="url(#pattern)"/>
+        <g id="Group_9" data-name="Group 9" transform="translate(9 -61)">
+          <g transform="matrix(1, 0, 0, 1, -9, 73)" filter="url(#Best_deal_with_lowest_price.)">
+            <text id="Best_deal_with_lowest_price.-2" data-name="Best deal 
+with lowest price." transform="translate(139 408)" fill="#fff" font-size="58" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Best deal </tspan><tspan x="0" y="63">with lowest price.</tspan></text>
+          </g>
+          <g id="Group_8" data-name="Group 8" transform="translate(-183 36)">
+            <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(313 553)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="0.5">
+              <path d="M25,0H414a0,0,0,0,1,0,0V50a0,0,0,0,1,0,0H25A25,25,0,0,1,0,25v0A25,25,0,0,1,25,0Z" stroke="none"/>
+              <path d="M25,.25H413.5a.25.25,0,0,1,.25.25v49a.25.25,0,0,1-.25.25H25A24.75,24.75,0,0,1,.25,25v0A24.75,24.75,0,0,1,25,.25Z" fill="none"/>
+            </g>
+            <text id="Search_grocery_cloth_etc_" data-name="Search grocery, cloth etc …… " transform="translate(422 583)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="-77.089" y="0">Search grocery, cloth etc …… </tspan></text>
+            <g id="Group_1461" data-name="Group 1461" transform="translate(645 553)">
+              <rect id="Rectangle_5-2" data-name="Rectangle 5" width="114" height="50" rx="25" transform="translate(25)" fill="#264b8c"/>
+              <text id="Search" transform="translate(82 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-20.252" y="0">Search</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(0 -6)">
+          <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(139 704)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+            <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+            <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+          </g>
+          <g id="Group_12" data-name="Group 12">
+            <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="7.5" cy="7.5" r="7.5" transform="translate(180 704)" fill="#fff"/>
+            <circle id="Ellipse_3" data-name="Ellipse 3" cx="3.5" cy="3.5" r="3.5" transform="translate(184 708)" fill="#264b8c"/>
+          </g>
+          <g id="Ellipse_2-3" data-name="Ellipse 2" transform="translate(221 704)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+            <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+            <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+          </g>
+          <g id="Ellipse_2-4" data-name="Ellipse 2" transform="translate(262 704)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+            <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+            <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+          </g>
+          <g id="Ellipse_20" data-name="Ellipse 20" transform="translate(303 704)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+            <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+            <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1467" data-name="Group 1467" transform="translate(-95 9)">
+        <rect id="logo" width="245" height="46" transform="translate(234 23)" fill="url(#pattern-2)"/>
+        <g id="Group_1468" data-name="Group 1468">
+          <g id="Group_2" data-name="Group 2" transform="translate(352.955 37)">
+            <text id="Downloads" transform="translate(723.045 15)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Downloads</tspan></text>
+            <text id="NEWS" transform="translate(644.045 15)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">NEWS</tspan></text>
+            <text id="Registration" transform="translate(521.045 15)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Registration</tspan></text>
+            <text id="Login" transform="translate(446.045 15)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Login</tspan></text>
+          </g>
+          <g id="Group_1466" data-name="Group 1466" transform="translate(1194 21)">
+            <g id="Rectangle_5-3" data-name="Rectangle 5" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2">
+              <rect width="121.484" height="50" rx="25" stroke="none"/>
+              <rect x="1" y="1" width="119.484" height="48" rx="24" fill="none"/>
+            </g>
+            <g id="Group_1465" data-name="Group 1465" transform="translate(33 17)">
+              <text id="Cart" transform="translate(41.327 13)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-12.857" y="0">Cart</tspan></text>
+              <g id="Group_3" data-name="Group 3" transform="translate(0 1)">
+                <g id="Icon_feather-shopping-cart-2" data-name="Icon feather-shopping-cart">
+                  <path id="Path_1" data-name="Path 1" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" transform="translate(-0.667 -0.667)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  <path id="Path_2" data-name="Path 2" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" transform="translate(-0.667 -0.667)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  <path id="Path_3" data-name="Path 3" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" transform="translate(-0.667 -0.667)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1485" data-name="Group 1485">
+        <rect id="Rectangle_142" data-name="Rectangle 142" width="1366" height="73" transform="translate(0 110)" fill="#264b8c" opacity="0.05"/>
+        <g id="Group_1484" data-name="Group 1484" transform="translate(0 -1)">
+          <g id="Group_1472" data-name="Group 1472" transform="translate(139 137)">
+            <text id="Grocery" transform="translate(66 17)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-27.488" y="0">Grocery</tspan></text>
+            <g id="Mask_Group_5" data-name="Mask Group 5" clip-path="url(#clip-path)">
+              <g id="sofa" transform="translate(0 2.882)">
+                <g id="Group_1471" data-name="Group 1471">
+                  <g id="Group_1470" data-name="Group 1470">
+                    <path id="Path_57" data-name="Path 57" d="M4.632,8.868a5.079,5.079,0,0,1,.586,1.169,11.455,11.455,0,0,1,.544,3.319H16.237a11.481,11.481,0,0,1,.545-3.32,5.057,5.057,0,0,1,.584-1.167,4.781,4.781,0,0,1,1.175-1.178,5.423,5.423,0,0,1,.515-.332C17.853,4.683,14.693,2.882,11,2.882A8.492,8.492,0,0,0,3.162,7.491c.1.065.2.133.295.2A4.826,4.826,0,0,1,4.632,8.868Z" transform="translate(0 -2.882)" fill="#55c19f"/>
+                    <path id="Path_58" data-name="Path 58" d="M21.608,8.489a1.511,1.511,0,0,0-.788-.382,1.885,1.885,0,0,0-.819,0,2.259,2.259,0,0,0-.859.441,3.731,3.731,0,0,0-.915.917,4.15,4.15,0,0,0-.46.926,11.141,11.141,0,0,0-.493,3.489.524.524,0,0,1-.524.524H5.248a.524.524,0,0,1-.524-.524,11.24,11.24,0,0,0-.492-3.489,4.181,4.181,0,0,0-.461-.928,3.745,3.745,0,0,0-.917-.917A2.26,2.26,0,0,0,2,8.106a1.864,1.864,0,0,0-.818,0,1.516,1.516,0,0,0-.789.382A1.453,1.453,0,0,0,.013,9.609a1.5,1.5,0,0,0,1.161,1.139.992.992,0,0,0,.451-.01,1.087,1.087,0,0,1,.7.045c.874.395.969,1.893.325,5.159.329.968.744,1.043,1.058,1.079H4.724v1.571a.524.524,0,0,0,.524.524h.524a.524.524,0,0,0,.524-.524v-1.57H15.7v1.571a.524.524,0,0,0,.524.524h.524a.524.524,0,0,0,.524-.524V17.023h1.016c.314-.036.729-.112,1.058-1.079-.645-3.266-.549-4.766.325-5.159a1.085,1.085,0,0,1,.7-.045,1.013,1.013,0,0,0,.451.009,1.5,1.5,0,0,0,1.161-1.138A1.458,1.458,0,0,0,21.608,8.489Z" transform="translate(0 -2.882)" fill="#55c19f"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1483" data-name="Group 1483" transform="translate(329.628 137)">
+            <text id="Clothes" transform="translate(37.372 17)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Clothes</tspan></text>
+            <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path-2)">
+              <g id="casual-t-shirt-" transform="translate(-0.456 1.431)">
+                <path id="Path_59" data-name="Path 59" d="M11,3.281a2.175,2.175,0,0,0,2.072-1.5A8.011,8.011,0,0,1,11,2.029,8.01,8.01,0,0,1,8.928,1.78,2.175,2.175,0,0,0,11,3.281Z" transform="translate(0 -1.431)" fill="#55c19f"/>
+                <path id="Path_60" data-name="Path 60" d="M21.973,4.38a.5.5,0,0,0-.262-.288L17.516,2.156A20.284,20.284,0,0,0,14.8,1.44a.5.5,0,0,0-.1-.009.493.493,0,0,0-.481.387,3.3,3.3,0,0,1-6.439,0A.493.493,0,0,0,7.3,1.431a.5.5,0,0,0-.1.009,20.362,20.362,0,0,0-2.72.715L.29,4.092a.493.493,0,0,0-.261.288.489.489,0,0,0,.026.388L1.875,8.362a.494.494,0,0,0,.585.252l2.022-.6V20.072a.5.5,0,0,0,.5.5H17.02a.5.5,0,0,0,.5-.5V8.015l2.024.6a.494.494,0,0,0,.585-.252l1.822-3.594A.5.5,0,0,0,21.973,4.38Z" transform="translate(0 -1.431)" fill="#55c19f"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1482" data-name="Group 1482" transform="translate(519.702 137)">
+            <text id="Electronics" transform="translate(77.298 17)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-37.598" y="0">Electronics</tspan></text>
+            <g id="Mask_Group_7" data-name="Mask Group 7" clip-path="url(#clip-path-3)">
+              <g id="flash" transform="translate(2.382)">
+                <g id="Group_1473" data-name="Group 1473">
+                  <path id="Path_61" data-name="Path 61" d="M19.3,6.952H11.76L15.767,0H6.7l-4,11.438H9.136L6.284,22Z" transform="translate(-2.702)" fill="#55c19f"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1481" data-name="Group 1481" transform="translate(733.104 137)">
+            <text id="Cosmetics" transform="translate(36.896 17)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Cosmetics</tspan></text>
+            <g id="Mask_Group_8" data-name="Mask Group 8" clip-path="url(#clip-path-4)">
+              <g id="beauty-products" transform="translate(-0.34 0.69)">
+                <g id="Group_1475" data-name="Group 1475">
+                  <g id="Group_1474" data-name="Group 1474">
+                    <path id="Path_62" data-name="Path 62" d="M21.847.877A.577.577,0,0,0,21.42.69H13.146a.579.579,0,0,0-.578.629l.068.8H21.93l.068-.8A.579.579,0,0,0,21.847.877Z" transform="translate(0 -0.69)" fill="#55c19f"/>
+                    <path id="Path_63" data-name="Path 63" d="M13.89,16.842h6.788L21.836,3.214H12.73Z" transform="translate(0 -0.69)" fill="#55c19f"/>
+                    <path id="Path_64" data-name="Path 64" d="M13.954,19.876a1.434,1.434,0,0,0,1.434,1.434h3.791a1.434,1.434,0,0,0,1.434-1.434V18.045H13.954Z" transform="translate(0 -0.69)" fill="#55c19f"/>
+                    <path id="Path_65" data-name="Path 65" d="M11.706,16.1H4.4L1.462,17.437l-.02.007v1.332A2.535,2.535,0,0,0,3.976,21.31H9.647a2.535,2.535,0,0,0,2.535-2.535v-2.2A.476.476,0,0,0,11.706,16.1Z" transform="translate(0 -0.69)" fill="#55c19f"/>
+                    <path id="Path_66" data-name="Path 66" d="M9.544,13.772,6.593,15.11h3.815a.349.349,0,0,0,.31-.508,1.5,1.5,0,0,0-.926-.759Z" transform="translate(0 -0.69)" fill="#55c19f"/>
+                    <path id="Path_67" data-name="Path 67" d="M10.02,11.8a.477.477,0,0,0-.012-.364l-.127-.279A1.119,1.119,0,0,0,8.4,10.6L.658,14.105A1.12,1.12,0,0,0,.1,15.588l.127.279a.478.478,0,0,0,.631.237l8.914-4.042A.477.477,0,0,0,10.02,11.8Z" transform="translate(0 -0.69)" fill="#55c19f"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1480" data-name="Group 1480" transform="translate(944.248 137)">
+            <text id="Furniture" transform="translate(68.752 17)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-31.883" y="0">Furniture</tspan></text>
+            <g id="Mask_Group_9" data-name="Mask Group 9" clip-path="url(#clip-path-5)">
+              <g id="couch" transform="translate(-0.414 3.9)">
+                <path id="Path_68" data-name="Path 68" d="M19.754,8.316a.666.666,0,0,0-.666.666v4.531a.666.666,0,0,1-.666.666H3.578a.666.666,0,0,1-.666-.666V8.982a.666.666,0,0,0-.666-.666H.811A.811.811,0,0,0,0,9.128v6.867a.666.666,0,0,0,.666.666h2.17v.775a.658.658,0,0,0,.615.664.645.645,0,0,0,.674-.644v-.8h13.75v.775a.658.658,0,0,0,.615.664.645.645,0,0,0,.674-.644v-.8h2.17A.666.666,0,0,0,22,15.994V9.127a.811.811,0,0,0-.811-.811Z" transform="translate(0 -3.9)" fill="#55c19f"/>
+                <g id="Group_1478" data-name="Group 1478" transform="translate(2.571)">
+                  <g id="Group_1476" data-name="Group 1476" transform="translate(0 0)">
+                    <path id="Path_69" data-name="Path 69" d="M4.2,9.128v1.19h6.155V4.461a2.041,2.041,0,0,0-1.4-.561H4.62A2.055,2.055,0,0,0,2.571,5.949V7.081A2.1,2.1,0,0,1,4.2,9.128Z" transform="translate(-2.571 -3.9)" fill="#55c19f"/>
+                    <path id="Path_70" data-name="Path 70" d="M10.356,11.607H4.2V12.89h6.157c0-.015,0-.03,0-.045V11.607Z" transform="translate(-2.571 -3.9)" fill="#55c19f"/>
+                  </g>
+                  <g id="Group_1477" data-name="Group 1477" transform="translate(9.072)">
+                    <path id="Path_71" data-name="Path 71" d="M17.8,9.128a2.1,2.1,0,0,1,1.63-2.047V5.949A2.055,2.055,0,0,0,17.38,3.9H13.05a2.041,2.041,0,0,0-1.4.561v5.857H17.8Z" transform="translate(-11.643 -3.9)" fill="#55c19f"/>
+                    <path id="Path_72" data-name="Path 72" d="M17.8,11.926v-.319H11.645v1.238c0,.015,0,.03,0,.045H17.8v-.964Z" transform="translate(-11.643 -3.9)" fill="#55c19f"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1479" data-name="Group 1479" transform="translate(1141 137)">
+            <text id="Health" transform="translate(37 17)" fill="#999" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Health</tspan></text>
+            <g id="Mask_Group_10" data-name="Mask Group 10" clip-path="url(#clip-path-6)">
+              <g id="hand-sanitizer" transform="translate(4.629 0)">
+                <path id="Path_73" data-name="Path 73" d="M8.954,10.662s0-.01,0-.015,0-.017,0-.026,0-.007,0-.011a.34.34,0,0,1,.01-.039L10.346,6.1a.344.344,0,0,1,.329-.243h.344V4.821a.344.344,0,0,1,.344-.344h.344V2.066a.344.344,0,0,1,.344-.344h2.41a.344.344,0,0,1,.344.344v2.41h.344a.344.344,0,0,1,.344.344V5.854h.344a.344.344,0,0,1,.329.243l1.377,4.474a.34.34,0,0,1,.01.039l0,.011c0,.009,0,.017,0,.026s0,.01,0,.015,0,.008,0,.013v9.642a1.724,1.724,0,0,1-1.722,1.722H10.675a1.724,1.724,0,0,1-1.722-1.722V10.675S8.954,10.666,8.954,10.662Zm2.754,3.456h1.033v1.033h.689V14.119h1.033V13.43H13.43V12.4h-.689V13.43H11.708Zm2.41-10.331H13.43V3.1h.689V2.41H12.4V4.477h1.722ZM10.929,6.543l-.2.647a8.142,8.142,0,0,1,1.713.045c.387.052.7.125.982.189a4.161,4.161,0,0,0,1.357.153,3.835,3.835,0,0,0,1.051-.231l-.247-.8ZM16.036,8a4.515,4.515,0,0,1-1.2.259c-.1.008-.2.011-.3.011a5.33,5.33,0,0,1-1.263-.18c-.278-.064-.565-.13-.921-.178a7.539,7.539,0,0,0-1.84-.015l-.747,2.429h6.988ZM10.675,21.35H15.84a1.034,1.034,0,0,0,1.033-1.033v-3.1H9.642v3.1a1.034,1.034,0,0,0,1.033,1.033Z" transform="translate(-8.953 -0.039)" fill="#55c19f"/>
+                <path id="Path_74" data-name="Path 74" d="M11.536,17.562a1.205,1.205,0,1,1-1.205,1.205A1.205,1.205,0,0,1,11.536,17.562Z" transform="translate(-5.51 -0.039)" fill="#55c19f"/>
+                <path id="Path_75" data-name="Path 75" d="M14.979,18.6A1.205,1.205,0,1,1,13.774,19.8,1.205,1.205,0,0,1,14.979,18.6Z" transform="translate(-12.397 -0.039)" fill="#55c19f"/>
+                <path id="Path_76" data-name="Path 76" d="M0,.689H.689V0H0Z" transform="translate(11.949 0.931) rotate(-117.897)" fill="#55c19f"/>
+                <path id="Path_77" data-name="Path 77" d="M0,.689H.689V0H0Z" transform="translate(9.513 2.22) rotate(-117.897)" fill="#55c19f"/>
+                <path id="Path_78" data-name="Path 78" d="M0,.689H.689V0H0Z" transform="translate(11.78 7.209) rotate(-147.12)" fill="#55c19f"/>
+                <path id="Path_79" data-name="Path 79" d="M0,.689H.689V0H0Z" transform="translate(8.296 2.864) rotate(-117.897)" fill="#55c19f"/>
+                <path id="Path_80" data-name="Path 80" d="M0,.689H.689V0H0Z" transform="translate(9.466 5.712) rotate(-147.12)" fill="#55c19f"/>
+                <path id="Path_81" data-name="Path 81" d="M0,.689H.689V0H0Z" transform="translate(10.623 6.46) rotate(-147.12)" fill="#55c19f"/>
+                <path id="Path_82" data-name="Path 82" d="M0,.689H.689V0H0Z" transform="translate(8.309 4.964) rotate(-147.12)" fill="#55c19f"/>
+                <path id="Path_83" data-name="Path 83" d="M0,.689H.689V0H0Z" transform="translate(10.731 1.575) rotate(-117.897)" fill="#55c19f"/>
+                <path id="Path_84" data-name="Path 84" d="M6.887,3.1H6.2v.689h.689Z" transform="translate(4.477 -0.039)" fill="#55c19f"/>
+                <path id="Path_85" data-name="Path 85" d="M5.51,3.1H4.821v.689H5.51Z" transform="translate(7.231 -0.039)" fill="#55c19f"/>
+                <path id="Path_86" data-name="Path 86" d="M8.265,3.1H7.576v.689h.689Z" transform="translate(1.722 -0.039)" fill="#55c19f"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1501" data-name="Group 1501" transform="translate(0 649)">
+      <g id="Group_1487" data-name="Group 1487" transform="translate(0 -2)">
+        <g id="Group_1373" data-name="Group 1373" transform="translate(139 1017)">
+          <text id="Discount_Zone" data-name="Discount Zone" transform="translate(0 34)" fill="#2f4858" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Discount Zone</tspan></text>
+          <text id="Quis_dolor_ad_mollit_nulla_enim_incididunt_ut_ea_et_ipsum_magna._Est_amet_velit_non_velit_aute." data-name="Quis dolor ad mollit nulla enim incididunt ut ea et ipsum magna. Est amet velit non velit aute." transform="translate(0 68)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Quis dolor ad mollit nulla enim incididunt ut ea et ipsum </tspan><tspan x="0" y="35">magna. Est amet velit non velit aute.</tspan></text>
+        </g>
+        <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(1085 1044)">
+          <g id="Rectangle_5-4" data-name="Rectangle 5" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2">
+            <rect width="142" height="50" rx="25" stroke="none"/>
+            <rect x="1" y="1" width="140" height="48" rx="24" fill="none"/>
+          </g>
+          <text id="View_All" data-name="View All" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-24.94" y="0">View All</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1500" data-name="Group 1500">
+        <g id="Group_1498" data-name="Group 1498" transform="translate(1325.799 1171)">
+          <rect id="Rectangle_132" data-name="Rectangle 132" width="283" height="279" rx="5" transform="translate(0.201)" fill="#264b8c" opacity="0.05"/>
+          <g id="Group_1383" data-name="Group 1383" transform="translate(226 15)">
+            <g id="Group_1379" data-name="Group 1379">
+              <circle id="Ellipse_14" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.201)" fill="#fff"/>
+              <path id="Icon_feather-heart" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.238 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+            </g>
+          </g>
+          <g id="Group_49" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here" data-name="Product Name here" transform="translate(94.201 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1" data-name="Combo Offer 1" transform="translate(40.201 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR" data-name="50.00 INR" transform="translate(31.201 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR" data-name="75.00 INR" transform="translate(41.201 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1493" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_10" data-name="Component 1 – 10" transform="translate(0.201)">
+              <g id="Rectangle_5-5" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_11" data-name="Component 1 – 11" transform="translate(0.201)">
+                <rect id="Rectangle_5-6" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+          <rect id="Girl_Dress_-_480x663" data-name="Girl Dress - 480x663" width="159" height="220" transform="translate(62.201 36)" fill="url(#pattern-3)"/>
+          <rect id="amara" width="67.2" height="18" transform="translate(12.601 12)" opacity="0.1" fill="url(#pattern-4)"/>
+        </g>
+        <g id="Group_1497" data-name="Group 1497" transform="translate(1011.799 1171)">
+          <rect id="Rectangle_132-2" data-name="Rectangle 132" width="283" height="279" rx="5" transform="translate(0.201)" fill="#264b8c" opacity="0.05"/>
+          <g id="Group_1383-2" data-name="Group 1383" transform="translate(226 15)">
+            <g id="Group_1379-2" data-name="Group 1379">
+              <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.201)" fill="#fff"/>
+              <path id="Icon_feather-heart-2" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.238 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+            </g>
+          </g>
+          <g id="Group_49-2" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-2" data-name="Product Name here" transform="translate(94.201 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-2" data-name="Combo Offer 1" transform="translate(40.201 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-2" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-2" data-name="50.00 INR" transform="translate(31.201 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-2" data-name="75.00 INR" transform="translate(41.201 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+              <g id="Group_1564" data-name="Group 1564" transform="translate(0.348 -19)">
+                <text id="_80.00_INR" data-name="80.00 INR" transform="translate(39.852 10)" fill="#666" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-23.037" y="0">80.00 INR</tspan></text>
+                <text id="APV" transform="translate(6.852 11)" fill="#666" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-6.945" y="0">APV</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1493-2" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_8" data-name="Component 1 – 8" transform="translate(0.201)">
+              <g id="Rectangle_5-7" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-2" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-2" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_9" data-name="Component 1 – 9" transform="translate(0.201)">
+                <rect id="Rectangle_5-8" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-2" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+          <rect id="Girl_Dress_-_480x663-2" data-name="Girl Dress - 480x663" width="159" height="220" transform="translate(62.201 36)" fill="url(#pattern-3)"/>
+          <rect id="amara-2" data-name="amara" width="67.2" height="18" transform="translate(12.201 12)" opacity="0.1" fill="url(#pattern-4)"/>
+        </g>
+        <g id="Group_1496" data-name="Group 1496" transform="translate(697.877 1171)">
+          <rect id="Rectangle_132-3" data-name="Rectangle 132" width="283" height="279" rx="5" transform="translate(0.123)" fill="#264b8c" opacity="0.05"/>
+          <g id="Group_1383-3" data-name="Group 1383" transform="translate(226 15)">
+            <g id="Group_1379-3" data-name="Group 1379">
+              <circle id="Ellipse_14-3" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.123)" fill="#fff"/>
+              <path id="Icon_feather-heart-3" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.584 12.501)" fill="#264b8c"/>
+            </g>
+          </g>
+          <g id="Group_49-3" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-3" data-name="Product Name here" transform="translate(94.123 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-3" data-name="Combo Offer 1" transform="translate(40.123 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-3" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-3" data-name="50.00 INR" transform="translate(31.123 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-3" data-name="75.00 INR" transform="translate(41.123 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+              <g id="Group_1563" data-name="Group 1563" transform="translate(0.27 -20)">
+                <text id="_80.00_INR-2" data-name="80.00 INR" transform="translate(39.852 10)" fill="#666" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-23.037" y="0">80.00 INR</tspan></text>
+                <text id="APV-2" data-name="APV" transform="translate(6.852 11)" fill="#666" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-6.945" y="0">APV</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1493-3" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(0.123)">
+              <g id="Rectangle_5-9" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-3" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-3" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(0.123)">
+                <rect id="Rectangle_5-10" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-3" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+          <image id="Refrigerator_-_480x480" data-name="Refrigerator - 480x480" width="210" height="210" transform="translate(37.123 40)" xlink:href="Ayush%20mart%20-%20Homepage-image5.png"/>
+          <rect id="amara-3" data-name="amara" width="67.2" height="18" transform="translate(12.123 12)" opacity="0.1" fill="url(#pattern-4)"/>
+        </g>
+        <g id="Group_1495" data-name="Group 1495" transform="translate(383.922 1171)">
+          <rect id="Rectangle_132-4" data-name="Rectangle 132" width="283" height="279" rx="5" transform="translate(0.078)" fill="#264b8c" opacity="0.05"/>
+          <g id="Group_1383-4" data-name="Group 1383" transform="translate(226 15)">
+            <g id="Group_1379-4" data-name="Group 1379">
+              <circle id="Ellipse_14-4" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.078)" fill="#fff"/>
+              <path id="Icon_feather-heart-4" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.919 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+            </g>
+          </g>
+          <g id="Group_1503" data-name="Group 1503">
+            <g id="Group_49-4" data-name="Group 49" transform="translate(4 299)">
+              <text id="Product_Name_here-4" data-name="Product Name here" transform="translate(94.078 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+              <text id="Combo_Offer_1-4" data-name="Combo Offer 1" transform="translate(40.078 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+              <g id="Group_1489-4" data-name="Group 1489" transform="translate(218 20)">
+                <text id="_50.00_INR-4" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                <text id="_75.00_INR-4" data-name="75.00 INR" transform="translate(41.078 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+              </g>
+            </g>
+            <g id="Group_1493-4" data-name="Group 1493" transform="translate(4 367)">
+              <g id="Component_1_4" data-name="Component 1 – 4" transform="translate(0.078)">
+                <g id="Rectangle_5-11" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                  <rect width="140" height="50" rx="25" stroke="none"/>
+                  <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+                </g>
+                <text id="Add_to_cart-4" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+              </g>
+              <g id="Group_1492-4" data-name="Group 1492" transform="translate(155)">
+                <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(0.078)">
+                  <rect id="Rectangle_5-12" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                  <text id="Buy_Now-4" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <image id="Sofa_-_640x489_4_" data-name="Sofa - 640x489 (4)" width="208" height="159" transform="translate(38.078 76)" xlink:href="Ayush%20mart%20-%20Homepage-image6.png"/>
+          <rect id="amara-4" data-name="amara" width="67.2" height="18" transform="translate(12.078 12)" opacity="0.1" fill="url(#pattern-4)"/>
+          <g id="Group_1504" data-name="Group 1504">
+            <g id="Group_49-5" data-name="Group 49" transform="translate(4 299)">
+              <text id="Product_Name_here-5" data-name="Product Name here" transform="translate(94.078 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+              <text id="Combo_Offer_1-5" data-name="Combo Offer 1" transform="translate(40.078 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+              <g id="Group_1489-5" data-name="Group 1489" transform="translate(218 20)">
+                <text id="_50.00_INR-5" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                <text id="_75.00_INR-5" data-name="75.00 INR" transform="translate(41.078 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                <g id="Group_1562" data-name="Group 1562" transform="translate(-0.774 -20)">
+                  <text id="_80.00_INR-3" data-name="80.00 INR" transform="translate(39.852 10)" fill="#666" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-23.037" y="0">80.00 INR</tspan></text>
+                  <text id="APV-3" data-name="APV" transform="translate(6.852 11)" fill="#666" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-6.945" y="0">APV</tspan></text>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1493-5" data-name="Group 1493" transform="translate(4 367)">
+              <g id="Component_1_14" data-name="Component 1 – 14" transform="translate(0.078)">
+                <g id="Rectangle_5-13" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                  <rect width="140" height="50" rx="25" stroke="none"/>
+                  <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+                </g>
+                <text id="Add_to_cart-5" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+              </g>
+              <g id="Group_1492-5" data-name="Group 1492" transform="translate(155)">
+                <g id="Component_1_15" data-name="Component 1 – 15" transform="translate(0.078)">
+                  <rect id="Rectangle_5-14" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                  <text id="Buy_Now-5" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1494" data-name="Group 1494" transform="translate(70 1171)">
+          <rect id="Rectangle_132-5" data-name="Rectangle 132" width="283" height="279" rx="5" fill="#264b8c" opacity="0.05"/>
+          <g id="Group_1383-5" data-name="Group 1383" transform="translate(226 15)">
+            <g id="Group_1379-5" data-name="Group 1379">
+              <circle id="Ellipse_14-5" data-name="Ellipse 14" cx="21" cy="21" r="21" fill="#fff"/>
+              <path id="Icon_feather-heart-5" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.265 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+            </g>
+          </g>
+          <g id="Group_49-6" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-6" data-name="Product Name here" transform="translate(94 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-6" data-name="Combo Offer 1" transform="translate(40 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-6" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-6" data-name="50.00 INR" transform="translate(31 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-6" data-name="75.00 INR" transform="translate(41 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+            </g>
+            <g id="Group_1561" data-name="Group 1561" transform="translate(218.148)">
+              <text id="_80.00_INR-4" data-name="80.00 INR" transform="translate(39.852 10)" fill="#666" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-23.037" y="0">80.00 INR</tspan></text>
+              <text id="APV-4" data-name="APV" transform="translate(6.852 11)" fill="#666" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-6.945" y="0">APV</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1493-6" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_3" data-name="Component 1 – 3">
+              <g id="Rectangle_5-15" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-6" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-6" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_2" data-name="Component 1 – 2">
+                <rect id="Rectangle_5-16" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-6" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+          <rect id="Red_T_Shirt_-_480x647" data-name="Red T Shirt - 480x647" width="150" height="203" transform="translate(68 46)" fill="url(#pattern-9)"/>
+          <rect id="amara-5" data-name="amara" width="67.2" height="18" transform="translate(12 12)" opacity="0.1" fill="url(#pattern-4)"/>
+        </g>
+        <g id="Group_1499" data-name="Group 1499" transform="translate(-244 1171)">
+          <rect id="Rectangle_132-6" data-name="Rectangle 132" width="283" height="279" rx="5" fill="#264b8c" opacity="0.05"/>
+          <g id="Group_1383-6" data-name="Group 1383" transform="translate(226 15)">
+            <g id="Group_1379-6" data-name="Group 1379">
+              <circle id="Ellipse_14-6" data-name="Ellipse 14" cx="21" cy="21" r="21" fill="#fff"/>
+              <path id="Icon_feather-heart-6" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.265 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+            </g>
+          </g>
+          <g id="Group_49-7" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-7" data-name="Product Name here" transform="translate(94 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-7" data-name="Combo Offer 1" transform="translate(40 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-7" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-7" data-name="50.00 INR" transform="translate(31 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-7" data-name="75.00 INR" transform="translate(41 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1493-7" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_12" data-name="Component 1 – 12">
+              <g id="Rectangle_5-17" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-7" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-7" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_13" data-name="Component 1 – 13">
+                <rect id="Rectangle_5-18" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-7" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+          <rect id="Red_T_Shirt_-_480x647-2" data-name="Red T Shirt - 480x647" width="150" height="203" transform="translate(68 46)" fill="url(#pattern-9)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1512" data-name="Group 1512" transform="translate(0 649)">
+      <g id="Group_1388" data-name="Group 1388" transform="translate(0 -124)">
+        <rect id="Rectangle_132-7" data-name="Rectangle 132" width="250" height="447" rx="5" transform="translate(139 1800)" fill="#06231a"/>
+        <g id="Whangaehu" transform="translate(140 1800)" stroke="#707070" stroke-width="1" opacity="0.02" fill="url(#pattern-12)">
+          <rect width="250" height="447" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="249" height="446" rx="4.5" fill="none"/>
+        </g>
+        <g id="Group_1387" data-name="Group 1387" transform="translate(173 2073)">
+          <text id="Flash_Sale_Start" data-name="Flash 
+Sale Start" transform="translate(0 82)" fill="#fff" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Flash </tspan><tspan x="0" y="39">Sale Start</tspan></text>
+          <g id="Group_1386" data-name="Group 1386">
+            <rect id="Rectangle_136" data-name="Rectangle 136" width="89" height="38" rx="7" fill="#55c19f"/>
+            <text id="_20_OFF" data-name="20% OFF" transform="translate(14 25)" fill="#fff" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">20% OFF</tspan></text>
+          </g>
+        </g>
+        <g id="Group_1542" data-name="Group 1542" transform="translate(1 4)">
+          <g id="Group_1540" data-name="Group 1540" transform="translate(6.594 -1.758)">
+            <g id="Group_1541" data-name="Group 1541" transform="translate(-6 17)">
+              <text id="_05" data-name="05" transform="translate(173.406 1859.758)" fill="#fff" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">05</tspan></text>
+              <text id=":" transform="translate(226.406 1852.758)" fill="#fff" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">:</tspan></text>
+              <text id=":-2" data-name=":" transform="translate(295.406 1852.758)" fill="#fff" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">:</tspan></text>
+              <text id="_23" data-name="23" transform="translate(244.406 1859.758)" fill="#fff" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">23</tspan></text>
+              <text id="_45" data-name="45" transform="translate(315.406 1859.758)" fill="#fff" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">45</tspan></text>
+            </g>
+          </g>
+          <text id="HOUR" transform="translate(182 1893)" fill="#fff" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">HOUR</tspan></text>
+          <text id="MIN." transform="translate(256 1893)" fill="#fff" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">MIN.</tspan></text>
+          <text id="SEC." transform="translate(324 1893)" fill="#fff" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">SEC.</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1507" data-name="Group 1507">
+        <rect id="Rectangle_133" data-name="Rectangle 133" width="280" height="320" rx="5" transform="translate(420 1673)" fill="#264b8c" opacity="0.05"/>
+        <use id="peanut-clipart-dry-fruit-19" transform="translate(500 1951) rotate(-90)" xlink:href="#image"/>
+        <rect id="aven" width="60.3" height="18" transform="translate(433 1690)" opacity="0.1" fill="url(#pattern-13)"/>
+        <g id="Group_1505" data-name="Group 1505" transform="translate(415.922 1706)">
+          <g id="Group_49-8" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-8" data-name="Product Name here" transform="translate(94.078 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-8" data-name="Combo Offer 1" transform="translate(40.078 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-8" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-8" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-8" data-name="75.00 INR" transform="translate(41.078 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+            </g>
+            <g id="Group_1555" data-name="Group 1555" transform="translate(219.226 2)">
+              <text id="_80.00_INR-5" data-name="80.00 INR" transform="translate(39.852 10)" fill="#666" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-23.037" y="0">80.00 INR</tspan></text>
+              <text id="APV-5" data-name="APV" transform="translate(6.852 11)" fill="#666" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-6.945" y="0">APV</tspan></text>
+            </g>
+            <g id="Group_1558" data-name="Group 1558" transform="translate(0.13 6)">
+              <rect id="Rectangle_150" data-name="Rectangle 150" width="37" height="13" rx="1" transform="translate(87.948 -5)" fill="#55c19f"/>
+              <text id="_50_OFF" data-name="50% OFF" transform="translate(106.948 4)" fill="#fff" font-size="6" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-12.275" y="0">50% OFF</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1493-8" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_16" data-name="Component 1 – 16" transform="translate(0.078)">
+              <g id="Rectangle_5-19" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-8" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-8" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_17" data-name="Component 1 – 17" transform="translate(0.078)">
+                <rect id="Rectangle_5-20" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-8" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1508" data-name="Group 1508" transform="translate(642.922 1688)">
+          <circle id="Ellipse_14-7" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.078)" fill="#fff"/>
+          <path id="Icon_feather-heart-7" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.919 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+        </g>
+      </g>
+      <g id="Group_1509" data-name="Group 1509" transform="translate(310)">
+        <rect id="Rectangle_133-2" data-name="Rectangle 133" width="280" height="320" rx="5" transform="translate(420 1673)" fill="#264b8c" opacity="0.05"/>
+        <rect id="aven-2" data-name="aven" width="60.3" height="18" transform="translate(433 1690)" opacity="0.1" fill="url(#pattern-13)"/>
+        <g id="Group_1505-2" data-name="Group 1505" transform="translate(415.922 1706)">
+          <g id="Group_49-9" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-9" data-name="Product Name here" transform="translate(94.078 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-9" data-name="Combo Offer 1" transform="translate(40.078 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-9" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-9" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-9" data-name="75.00 INR" transform="translate(41.078 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+              <g id="Group_1556" data-name="Group 1556" transform="translate(-0.774 -18)">
+                <text id="_80.00_INR-6" data-name="80.00 INR" transform="translate(39.852 10)" fill="#666" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-23.037" y="0">80.00 INR</tspan></text>
+                <text id="APV-6" data-name="APV" transform="translate(6.852 11)" fill="#666" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-6.945" y="0">APV</tspan></text>
+              </g>
+            </g>
+            <g id="Group_1559" data-name="Group 1559" transform="translate(-0.87 6)">
+              <rect id="Rectangle_150-2" data-name="Rectangle 150" width="37" height="13" rx="1" transform="translate(87.948 -5)" fill="#55c19f"/>
+              <text id="_50_OFF-2" data-name="50% OFF" transform="translate(106.948 4)" fill="#fff" font-size="6" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-12.275" y="0">50% OFF</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1493-9" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_18" data-name="Component 1 – 18" transform="translate(0.078)">
+              <g id="Rectangle_5-21" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-9" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-9" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_19" data-name="Component 1 – 19" transform="translate(0.078)">
+                <rect id="Rectangle_5-22" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-9" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1508-2" data-name="Group 1508" transform="translate(642.922 1688)">
+          <circle id="Ellipse_14-8" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.078)" fill="#fff"/>
+          <path id="Icon_feather-heart-8" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.919 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+        </g>
+        <rect id="_2" data-name="2" width="159" height="224" transform="translate(481 1734)" fill="url(#pattern-15)"/>
+      </g>
+      <g id="Group_1511" data-name="Group 1511" transform="translate(930)">
+        <rect id="Rectangle_133-3" data-name="Rectangle 133" width="280" height="320" rx="5" transform="translate(420 1673)" fill="#264b8c" opacity="0.05"/>
+        <use id="peanut-clipart-dry-fruit-19-2" data-name="peanut-clipart-dry-fruit-19" transform="translate(500 1951) rotate(-90)" xlink:href="#image"/>
+        <rect id="aven-3" data-name="aven" width="60.3" height="18" transform="translate(433 1690)" opacity="0.1" fill="url(#pattern-13)"/>
+        <g id="Group_1505-3" data-name="Group 1505" transform="translate(415.922 1706)">
+          <g id="Group_49-10" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-10" data-name="Product Name here" transform="translate(94.078 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-10" data-name="Combo Offer 1" transform="translate(40.078 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-10" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-10" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-10" data-name="75.00 INR" transform="translate(41.078 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1493-10" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_22" data-name="Component 1 – 22" transform="translate(0.078)">
+              <g id="Rectangle_5-23" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-10" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-10" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_23" data-name="Component 1 – 23" transform="translate(0.078)">
+                <rect id="Rectangle_5-24" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-10" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1508-3" data-name="Group 1508" transform="translate(642.922 1688)">
+          <circle id="Ellipse_14-9" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.078)" fill="#fff"/>
+          <path id="Icon_feather-heart-9" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.919 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+        </g>
+      </g>
+      <g id="Group_1510" data-name="Group 1510" transform="translate(620)">
+        <rect id="Rectangle_133-4" data-name="Rectangle 133" width="280" height="320" rx="5" transform="translate(420 1673)" fill="#264b8c" opacity="0.05"/>
+        <rect id="aven-4" data-name="aven" width="60.3" height="18" transform="translate(433 1690)" opacity="0.1" fill="url(#pattern-13)"/>
+        <g id="Group_1505-4" data-name="Group 1505" transform="translate(415.922 1706)">
+          <g id="Group_49-11" data-name="Group 49" transform="translate(4 299)">
+            <text id="Product_Name_here-11" data-name="Product Name here" transform="translate(94.078 41)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+            <text id="Combo_Offer_1-11" data-name="Combo Offer 1" transform="translate(40.078 12)" fill="#1a1a1a" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-41.842" y="0">Combo Offer 1</tspan></text>
+            <g id="Group_1489-11" data-name="Group 1489" transform="translate(218 20)">
+              <text id="_50.00_INR-11" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-11" data-name="75.00 INR" transform="translate(41.078 30)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+              <g id="Group_1557" data-name="Group 1557" transform="translate(0.226 -18)">
+                <text id="_80.00_INR-7" data-name="80.00 INR" transform="translate(39.852 10)" fill="#666" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-23.037" y="0">80.00 INR</tspan></text>
+                <text id="APV-7" data-name="APV" transform="translate(6.852 11)" fill="#666" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-6.945" y="0">APV</tspan></text>
+              </g>
+            </g>
+            <g id="Group_1560" data-name="Group 1560" transform="translate(-0.87 6)">
+              <rect id="Rectangle_150-3" data-name="Rectangle 150" width="37" height="13" rx="1" transform="translate(87.948 -5)" fill="#55c19f"/>
+              <text id="_50_OFF-3" data-name="50% OFF" transform="translate(106.948 4)" fill="#fff" font-size="6" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-12.275" y="0">50% OFF</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1493-11" data-name="Group 1493" transform="translate(4 367)">
+            <g id="Component_1_20" data-name="Component 1 – 20" transform="translate(0.078)">
+              <g id="Rectangle_5-25" data-name="Rectangle 5" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                <rect width="140" height="50" rx="25" stroke="none"/>
+                <rect x="1" y="1" width="138" height="48" rx="24" fill="none"/>
+              </g>
+              <text id="Add_to_cart-11" data-name="Add to cart" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-34.604" y="0">Add to cart</tspan></text>
+            </g>
+            <g id="Group_1492-11" data-name="Group 1492" transform="translate(155)">
+              <g id="Component_1_21" data-name="Component 1 – 21" transform="translate(0.078)">
+                <rect id="Rectangle_5-26" data-name="Rectangle 5" width="124" height="50" rx="25" fill="#264b8c"/>
+                <text id="Buy_Now-11" data-name="Buy Now" transform="translate(62 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_1508-4" data-name="Group 1508" transform="translate(642.922 1688)">
+          <circle id="Ellipse_14-10" data-name="Ellipse 14" cx="21" cy="21" r="21" transform="translate(0.078)" fill="#fff"/>
+          <path id="Icon_feather-heart-10" data-name="Icon feather-heart" d="M13.893,3.073a3.667,3.667,0,0,0-5.187,0L8,3.78l-.707-.707A3.668,3.668,0,1,0,2.107,8.26l.707.707L8,14.153l5.187-5.187.707-.707a3.667,3.667,0,0,0,0-5.187Z" transform="translate(13.919 12.501)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+        </g>
+        <image id="Lipstick_-_480x480" data-name="Lipstick - 480x480" width="220" height="220" transform="translate(450 1730)" xlink:href="Ayush%20mart%20-%20Homepage-image12.png"/>
+      </g>
+    </g>
+    <g id="Group_42" data-name="Group 42" transform="translate(0 1115)">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(0 1742)" fill="#264b8c" stroke="#707070" stroke-width="1" opacity="0.05">
+        <rect width="1366" height="574" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1365" height="573" fill="none"/>
+      </g>
+      <g id="Group_41" data-name="Group 41">
+        <g id="Group_40" data-name="Group 40">
+          <text id="Our_Process" data-name="Our Process" transform="translate(139 1847)" fill="#2f4858" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Our Process</tspan></text>
+          <text id="Quis_dolor_ad_mollit_nulla_enim_incididunt_ut_ea_et_ipsum_magna._Est_amet_velit_non_velit_aute.-2" data-name="Quis dolor ad mollit nulla enim incididunt ut ea et ipsum magna. Est amet velit non velit aute." transform="translate(139 1881)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Quis dolor ad mollit nulla enim incididunt ut ea et ipsum </tspan><tspan x="0" y="35">magna. Est amet velit non velit aute.</tspan></text>
+        </g>
+        <g id="Group_39" data-name="Group 39" transform="translate(0 1)">
+          <g id="Group_38" data-name="Group 38" transform="translate(139 1966.03)">
+            <g id="Group_33" data-name="Group 33">
+              <g id="Ellipse_6" data-name="Ellipse 6" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2" stroke-dasharray="5">
+                <circle cx="86.97" cy="86.97" r="86.97" stroke="none"/>
+                <circle cx="86.97" cy="86.97" r="85.97" fill="none"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -139, -3082.03)" filter="url(#Ellipse_5)">
+                <circle id="Ellipse_5-5" data-name="Ellipse 5" cx="69" cy="69" r="69" transform="translate(157.6 3100)" fill="#fff"/>
+              </g>
+              <g id="Icon_feather-search" data-name="Icon feather-search" transform="translate(73.433 73.022)">
+                <path id="Path_19" data-name="Path 19" d="M30.239,17.932A12.307,12.307,0,1,1,17.932,5.625,12.307,12.307,0,0,1,30.239,17.932Z" transform="translate(-5.625 -5.625)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+                <path id="Path_20" data-name="Path 20" d="M37.911,37.911l-6.692-6.692" transform="translate(-10.22 -10.22)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+              </g>
+            </g>
+            <text id="_01._Search_Product" data-name="01.
+Search Product" transform="translate(86.855 230.971)" fill="#264b8c" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-15.635" y="0">01.</tspan><tspan fill="#1a1a1a"><tspan x="-78.149" y="37">Search Product</tspan></tspan></text>
+          </g>
+          <g id="Group_37" data-name="Group 37" transform="translate(442.394 1966)">
+            <g id="Group_30" data-name="Group 30">
+              <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(-0.394 0)" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2" stroke-dasharray="5">
+                <ellipse cx="86.5" cy="87" rx="86.5" ry="87" stroke="none"/>
+                <ellipse cx="86.5" cy="87" rx="85.5" ry="86" fill="none"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -442.39, -3082)" filter="url(#Ellipse_5-2)">
+                <ellipse id="Ellipse_5-6" data-name="Ellipse 5" cx="68.5" cy="69" rx="68.5" ry="69" transform="translate(460 3100)" fill="#fff"/>
+              </g>
+              <g id="Icon_feather-box" data-name="Icon feather-box" transform="translate(72.092 71.411)">
+                <path id="Path_21" data-name="Path 21" d="M33.316,25.288V12.981a3.077,3.077,0,0,0-1.538-2.661L21.009,4.166a3.077,3.077,0,0,0-3.077,0L7.163,10.32a3.077,3.077,0,0,0-1.538,2.661V25.288A3.077,3.077,0,0,0,7.163,27.95L17.932,34.1a3.077,3.077,0,0,0,3.077,0L31.778,27.95a3.077,3.077,0,0,0,1.538-2.661Z" transform="translate(-5.625 -3.754)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+                <path id="Path_22" data-name="Path 22" d="M6.131,13.05l13.43,7.769,13.43-7.769" transform="translate(-5.716 -5.423)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+                <path id="Path_23" data-name="Path 23" d="M22.5,38.007V22.5" transform="translate(-8.654 -7.119)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+              </g>
+            </g>
+            <text id="_02._Search_Product" data-name="02.
+Search Product" transform="translate(86.606 231)" fill="#264b8c" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-15.635" y="0">02.</tspan><tspan fill="#1a1a1a"><tspan x="-78.149" y="37">Search Product</tspan></tspan></text>
+          </g>
+          <g id="Group_36" data-name="Group 36" transform="translate(742.805 1966)">
+            <g id="Group_32" data-name="Group 32">
+              <g id="Ellipse_6-3" data-name="Ellipse 6" transform="translate(0.195 0)" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2" stroke-dasharray="5">
+                <circle cx="87" cy="87" r="87" stroke="none"/>
+                <circle cx="87" cy="87" r="86" fill="none"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -742.81, -3082)" filter="url(#Ellipse_5-3)">
+                <circle id="Ellipse_5-7" data-name="Ellipse 5" cx="69" cy="69" r="69" transform="translate(761 3100)" fill="#fff"/>
+              </g>
+              <g id="Icon_feather-credit-card-2" data-name="Icon feather-credit-card" transform="translate(69.002 74.693)">
+                <path id="Path_24" data-name="Path 24" d="M4.952,7.5H32.643a3.077,3.077,0,0,1,3.077,3.077V29.037a3.077,3.077,0,0,1-3.077,3.077H4.952a3.077,3.077,0,0,1-3.077-3.077V10.577A3.077,3.077,0,0,1,4.952,7.5Z" transform="translate(-1.875 -7.5)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+                <path id="Path_25" data-name="Path 25" d="M1.875,18.75H35.72" transform="translate(-1.875 -9.52)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+              </g>
+            </g>
+            <text id="_03._Pay_Amount" data-name="03.
+Pay Amount" transform="translate(86.195 231)" fill="#264b8c" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-15.635" y="0">03.</tspan><tspan fill="#1a1a1a"><tspan x="-63.481" y="37">Pay Amount</tspan></tspan></text>
+          </g>
+          <g id="Group_35" data-name="Group 35" transform="translate(1046.258 1966)">
+            <g id="Group_31" data-name="Group 31" transform="translate(1)">
+              <g id="Ellipse_6-4" data-name="Ellipse 6" transform="translate(-0.258 0)" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2" stroke-dasharray="5">
+                <circle cx="87" cy="87" r="87" stroke="none"/>
+                <circle cx="87" cy="87" r="86" fill="none"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -1047.26, -3082)" filter="url(#Ellipse_5-4)">
+                <circle id="Ellipse_5-8" data-name="Ellipse 5" cx="69" cy="69" r="69" transform="translate(1065 3100)" fill="#fff"/>
+              </g>
+              <g id="Icon_feather-check-circle" data-name="Icon feather-check-circle" transform="translate(71.397 71.411)">
+                <path id="Path_26" data-name="Path 26" d="M34.518,17.717v1.415A15.384,15.384,0,1,1,25.4,5.071" transform="translate(-3.75 -3.738)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+                <path id="Path_27" data-name="Path 27" d="M36.874,7.5,21.49,22.9l-4.615-4.615" transform="translate(-6.106 -4.414)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+              </g>
+            </g>
+            <text id="_04._Done_Just_Relax_" data-name="04.
+Done, Just Relax " transform="translate(87.742 231)" fill="#264b8c" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-15.635" y="0">04.</tspan><tspan fill="#1a1a1a"><tspan x="-88.177" y="37">Done, Just Relax </tspan></tspan></text>
+          </g>
+          <line id="Line_1" data-name="Line 1" x2="94" transform="translate(327.5 2053.5)" fill="none" stroke="#264b8c" stroke-width="2" stroke-dasharray="5"/>
+          <line id="Line_2" data-name="Line 2" x2="94" transform="translate(631.5 2053.5)" fill="none" stroke="#264b8c" stroke-width="2" stroke-dasharray="5"/>
+          <line id="Line_3" data-name="Line 3" x2="94" transform="translate(935.5 2053.5)" fill="none" stroke="#264b8c" stroke-width="2" stroke-dasharray="5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_47" data-name="Group 47" transform="translate(0 1112)">
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(0 2316)" fill="#06231a" stroke="#707070" stroke-width="1">
+        <rect width="1366" height="303" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1365" height="302" fill="none"/>
+      </g>
+      <g id="_1" data-name="1" transform="translate(0 2316)" stroke="#707070" stroke-width="1" opacity="0.02" fill="url(#pattern-18)">
+        <rect width="1366" height="303" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1365" height="302" fill="none"/>
+      </g>
+      <g id="Group_46" data-name="Group 46">
+        <g id="Group_44" data-name="Group 44" transform="translate(139 2402)">
+          <g id="Group_43" data-name="Group 43">
+            <text id="_20-_50_OFF" data-name="20- 50% OFF" transform="translate(177 59)" fill="#fff" font-size="60" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-177.671" y="0">20- 50% OFF</tspan></text>
+            <text id="_20-_50_OFF-2" data-name="20- 50% OFF" transform="translate(179 65)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="0.2" font-size="60" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="-177.671" y="0">20- 50% OFF</tspan></text>
+            <text id="Deal_of_the_day" data-name="Deal of the day" transform="translate(2 -1)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Deal of the day</tspan></text>
+          </g>
+          <text id="Voluptate_irure_mollit_nisi_enim_Lorem_eu_sint_fugiat_cillum._Minim_in_dolore_officia_aliquip_irure_elit_anim_" data-name="Voluptate irure mollit nisi enim Lorem eu sint fugiat cillum. Minim 
+in dolore officia aliquip irure elit anim " transform="translate(0 105)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Voluptate irure mollit nisi enim Lorem eu sint fugiat cillum. Minim </tspan><tspan x="0" y="29">in dolore officia aliquip irure elit anim </tspan></text>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 0, -1112)" filter="url(#gty-ProductPage-Image-Grocery)">
+          <image id="gty-ProductPage-Image-Grocery-2" data-name="gty-ProductPage-Image-Grocery" width="255" height="327" transform="translate(1027 3404)" xlink:href="Ayush%20mart%20-%20Homepage-image14.png"/>
+        </g>
+        <g id="Group_45" data-name="Group 45" transform="translate(747.807 2401)">
+          <g id="Group_1460" data-name="Group 1460" transform="translate(1.193)">
+            <rect id="Rectangle_5-27" data-name="Rectangle 5" width="202" height="50" rx="25" fill="#55c19f"/>
+            <text id="Start_Shopping" data-name="Start Shopping" transform="translate(101 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-46.001" y="0">Start Shopping</tspan></text>
+          </g>
+          <g id="Group_1464" data-name="Group 1464" transform="translate(0.193 71)">
+            <g id="Rectangle_5-28" data-name="Rectangle 5" fill="rgba(255,255,255,0)" stroke="#55c19f" stroke-width="2">
+              <rect width="204" height="50" rx="25" stroke="none"/>
+              <rect x="1" y="1" width="202" height="48" rx="24" fill="none"/>
+            </g>
+            <text id="Signin_Register" data-name="Signin/Register" transform="translate(102 30)" fill="#55c19f" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-47.046" y="0">Signin/Register</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1532" data-name="Group 1532" transform="translate(0 649)">
+      <g id="Group_1513" data-name="Group 1513" transform="translate(0 2150)">
+        <g id="Group_1373-2" data-name="Group 1373" transform="translate(139 1017)">
+          <text id="Categorize_Products" data-name="Categorize Products" transform="translate(0 34)" fill="#2f4858" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Categorize Products</tspan></text>
+          <text id="Quis_dolor_ad_mollit_nulla_enim_incididunt_ut_ea_et_ipsum_magna._Est_amet_velit_non_velit_aute.-3" data-name="Quis dolor ad mollit nulla enim incididunt ut ea et ipsum magna. Est amet velit non velit aute." transform="translate(0 68)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Quis dolor ad mollit nulla enim incididunt ut ea et ipsum </tspan><tspan x="0" y="35">magna. Est amet velit non velit aute.</tspan></text>
+        </g>
+        <g id="Component_3_2" data-name="Component 3 – 2" transform="translate(1085 1044)">
+          <g id="Rectangle_5-29" data-name="Rectangle 5" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2">
+            <rect width="142" height="50" rx="25" stroke="none"/>
+            <rect x="1" y="1" width="140" height="48" rx="24" fill="none"/>
+          </g>
+          <text id="View_All-2" data-name="View All" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-24.94" y="0">View All</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1531" data-name="Group 1531" transform="translate(0 20)">
+        <g id="Group_1520" data-name="Group 1520" transform="translate(0 -9)">
+          <g id="Group_1514" data-name="Group 1514" transform="translate(139 3320)">
+            <g id="Rectangle_5-30" data-name="Rectangle 5" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2">
+              <rect width="113" height="40" rx="20" stroke="none"/>
+              <rect x="1" y="1" width="111" height="38" rx="19" fill="none"/>
+            </g>
+            <text id="Clothes-2" data-name="Clothes" transform="translate(57 25)" fill="#264b8c" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-20.95" y="0">Clothes</tspan></text>
+          </g>
+          <g id="Group_1517" data-name="Group 1517" transform="translate(431.432 3320)" opacity="0.7">
+            <g id="Rectangle_5-31" data-name="Rectangle 5" transform="translate(-0.432)" fill="rgba(255,255,255,0)" stroke="#707070" stroke-width="1">
+              <rect width="113" height="40" rx="20" stroke="none"/>
+              <rect x="0.5" y="0.5" width="112" height="39" rx="19.5" fill="none"/>
+            </g>
+            <text id="Electronics-2" data-name="Electronics" transform="translate(56.568 25)" fill="#707070" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-30.246" y="0">Electronics</tspan></text>
+          </g>
+          <g id="Group_1519" data-name="Group 1519" transform="translate(723.864 3320)" opacity="0.7">
+            <g id="Rectangle_5-32" data-name="Rectangle 5" transform="translate(0.136)" fill="rgba(255,255,255,0)" stroke="#707070" stroke-width="1">
+              <rect width="113" height="40" rx="20" stroke="none"/>
+              <rect x="0.5" y="0.5" width="112" height="39" rx="19.5" fill="none"/>
+            </g>
+            <text id="Furniture-2" data-name="Furniture" transform="translate(57.136 25)" fill="#707070" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-26.065" y="0">Furniture</tspan></text>
+          </g>
+          <g id="Group_1515" data-name="Group 1515" transform="translate(285.216 3320)" opacity="0.7">
+            <g id="Rectangle_5-33" data-name="Rectangle 5" transform="translate(-0.216)" fill="rgba(255,255,255,0)" stroke="#707070" stroke-width="1">
+              <rect width="113" height="40" rx="20" stroke="none"/>
+              <rect x="0.5" y="0.5" width="112" height="39" rx="19.5" fill="none"/>
+            </g>
+            <text id="Grocery-2" data-name="Grocery" transform="translate(56.784 25)" fill="#707070" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-22.28" y="0">Grocery</tspan></text>
+          </g>
+          <g id="Group_1516" data-name="Group 1516" transform="translate(577.648 3320)" opacity="0.7">
+            <g id="Rectangle_5-34" data-name="Rectangle 5" transform="translate(0.352)" fill="rgba(255,255,255,0)" stroke="#707070" stroke-width="1">
+              <rect width="113" height="40" rx="20" stroke="none"/>
+              <rect x="0.5" y="0.5" width="112" height="39" rx="19.5" fill="none"/>
+            </g>
+            <text id="Cosmetics-2" data-name="Cosmetics" transform="translate(57.352 25)" fill="#707070" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-28.354" y="0">Cosmetics</tspan></text>
+          </g>
+          <g id="Group_1518" data-name="Group 1518" transform="translate(870.08 3320)" opacity="0.7">
+            <g id="Rectangle_5-35" data-name="Rectangle 5" transform="translate(-0.08)" fill="rgba(255,255,255,0)" stroke="#707070" stroke-width="1">
+              <rect width="113" height="40" rx="20" stroke="none"/>
+              <rect x="0.5" y="0.5" width="112" height="39" rx="19.5" fill="none"/>
+            </g>
+            <text id="Health-2" data-name="Health" transform="translate(55.92 24)" fill="#707070" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-18.724" y="0">Health</tspan></text>
+          </g>
+        </g>
+        <g id="Group_1530" data-name="Group 1530" transform="translate(0 6)">
+          <g id="Group_1529" data-name="Group 1529">
+            <rect id="toa-heftiba-ua9ReZlzcIE-unsplash" width="250" height="302" rx="5" transform="translate(143 3390)" fill="url(#pattern-19)"/>
+            <g id="Group_1489-12" data-name="Group 1489" transform="translate(142.922 3746)">
+              <text id="_50.00_INR-12" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-12" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+            </g>
+            <g id="Group_1493-12" data-name="Group 1493" transform="translate(142.922 3781)">
+              <g id="Component_1_24" data-name="Component 1 – 24" transform="translate(155.493 -1.468)">
+                <g id="Rectangle_5-36" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                  <rect width="91.667" height="50" rx="25" stroke="none"/>
+                  <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                </g>
+                <g id="Icon_feather-shopping-cart-3" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                  <path id="Path_90" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  <path id="Path_91" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  <path id="Path_92" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                </g>
+              </g>
+              <g id="Group_1492-12" data-name="Group 1492" transform="translate(0.078)">
+                <g id="Component_1_25" data-name="Component 1 – 25" transform="translate(0)">
+                  <rect id="Rectangle_5-37" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                  <text id="Buy_Now-12" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1522" data-name="Group 1522">
+              <g id="Group_1521" data-name="Group 1521">
+                <text id="Product_Name_here-12" data-name="Product Name here" transform="translate(237 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+                <g id="Group_49-12" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-13" data-name="Group 1489" transform="translate(0 54)">
+                    <text id="_50.00_INR-13" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <g id="Group_1551" data-name="Group 1551">
+                      <text id="_80.00_INR-8" data-name="80.00 INR" transform="translate(225.078 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                      <text id="APV-8" data-name="APV" transform="translate(180.078 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                    </g>
+                    <text id="_75.00_INR-13" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-13" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_26" data-name="Component 1 – 26" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-38" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-4" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-2" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-2" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-2" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-13" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_27" data-name="Component 1 – 27" transform="translate(0)">
+                    <rect id="Rectangle_5-39" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-13" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1543" data-name="Group 1543" transform="translate(348.607 3404.685)">
+              <ellipse id="Ellipse_14-11" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-11" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1547" data-name="Group 1547">
+              <path id="Rectangle_149" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+          <g id="Group_1528" data-name="Group 1528">
+            <rect id="nimble-made-N0ke5zChVBU-unsplash_2_" data-name="nimble-made-N0ke5zChVBU-unsplash (2)" width="250" height="302" rx="5" transform="translate(420 3390)" fill="url(#pattern-21)"/>
+            <g id="Group_1523" data-name="Group 1523" transform="translate(277)">
+              <g id="Group_1521-2" data-name="Group 1521">
+                <text id="Product_Name_here-13" data-name="Product Name here" transform="translate(237 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+                <g id="Group_49-13" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-14" data-name="Group 1489" transform="translate(0.078 54)">
+                    <text id="_50.00_INR-14" data-name="50.00 INR" transform="translate(31 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <text id="_75.00_INR-14" data-name="75.00 INR" transform="translate(94 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                  </g>
+                  <g id="Group_1552" data-name="Group 1552" transform="translate(164.173 54)">
+                    <text id="_80.00_INR-9" data-name="80.00 INR" transform="translate(53.905 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                    <text id="APV-9" data-name="APV" transform="translate(8.905 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-14" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_28" data-name="Component 1 – 28" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-40" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-5" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-3" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-3" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-3" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-14" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_29" data-name="Component 1 – 29" transform="translate(0)">
+                    <rect id="Rectangle_5-41" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-14" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1544" data-name="Group 1544" transform="translate(625.607 3404.685)">
+              <ellipse id="Ellipse_14-12" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-12" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1548" data-name="Group 1548" transform="translate(277)">
+              <path id="Rectangle_149-2" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0-2" data-name="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+          <g id="Group_1527" data-name="Group 1527">
+            <rect id="jason-leung-DmD8HVOjy4c-unsplash" width="250" height="302" rx="5" transform="translate(696 3390)" fill="url(#pattern-23)"/>
+            <g id="Group_1524" data-name="Group 1524" transform="translate(554)">
+              <g id="Group_1521-3" data-name="Group 1521">
+                <text id="Product_Name_here-14" data-name="Product Name here" transform="translate(237 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+                <g id="Group_49-14" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-15" data-name="Group 1489" transform="translate(0 54)">
+                    <text id="_50.00_INR-15" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <text id="_75.00_INR-15" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                    <g id="Group_1553" data-name="Group 1553" transform="translate(164.173 1)">
+                      <text id="_80.00_INR-10" data-name="80.00 INR" transform="translate(53.905 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                      <text id="APV-10" data-name="APV" transform="translate(8.905 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-15" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_30" data-name="Component 1 – 30" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-42" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-6" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-4" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-4" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-4" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-15" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_31" data-name="Component 1 – 31" transform="translate(0)">
+                    <rect id="Rectangle_5-43" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-15" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1545" data-name="Group 1545" transform="translate(901.607 3404.685)">
+              <ellipse id="Ellipse_14-13" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-13" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1549" data-name="Group 1549" transform="translate(553)">
+              <path id="Rectangle_149-3" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0-3" data-name="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+          <g id="Group_1526" data-name="Group 1526">
+            <rect id="alicia-petresc-BciCcl8tjVU-unsplash" width="250" height="302" rx="5" transform="translate(974 3390)" fill="url(#pattern-25)"/>
+            <g id="Group_1525" data-name="Group 1525" transform="translate(831)">
+              <g id="Group_1521-4" data-name="Group 1521">
+                <text id="Product_Name_here-15" data-name="Product Name here" transform="translate(237 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-95.843" y="0">Product Name here</tspan></text>
+                <g id="Group_49-15" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-16" data-name="Group 1489" transform="translate(0 54)">
+                    <text id="_50.00_INR-16" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <text id="_75.00_INR-16" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                    <g id="Group_1554" data-name="Group 1554" transform="translate(167.173)">
+                      <text id="_80.00_INR-11" data-name="80.00 INR" transform="translate(53.905 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                      <text id="APV-11" data-name="APV" transform="translate(8.905 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-16" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_32" data-name="Component 1 – 32" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-44" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-7" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-5" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-5" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-5" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-16" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_33" data-name="Component 1 – 33" transform="translate(0)">
+                    <rect id="Rectangle_5-45" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-16" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1546" data-name="Group 1546" transform="translate(1181.607 3402.685)">
+              <ellipse id="Ellipse_14-14" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-14" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1550" data-name="Group 1550" transform="translate(831)">
+              <path id="Rectangle_149-4" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0-4" data-name="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1538" data-name="Group 1538" transform="translate(0 649)">
+      <g id="Group_57" data-name="Group 57" transform="translate(1009.874 4091)">
+        <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="87.5" cy="87" rx="87.5" ry="87" transform="translate(0.126)" fill="#f5fbf9"/>
+        <g id="Group_51" data-name="Group 51" transform="translate(18.949 216.968)">
+          <text id="Product_Name" data-name="Product Name" transform="translate(69.177 21.031)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-71.126" y="0">Product Name</tspan></text>
+          <text id="_50.00_INR-17" data-name="50.00 INR" transform="translate(69.177 45.031)" fill="#264b8c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+        </g>
+        <image id="MS20SDGC_MDM_HIGH_1" width="120" height="120" transform="translate(28.126 27)" xlink:href="Ayush%20mart%20-%20Homepage-image20.png"/>
+      </g>
+      <g id="Group_1349" data-name="Group 1349" transform="translate(768.324 4091)">
+        <ellipse id="Ellipse_10-2" data-name="Ellipse 10" cx="88" cy="87" rx="88" ry="87" transform="translate(-0.324)" fill="#f5fbf9"/>
+        <g id="Group_51-2" data-name="Group 51" transform="translate(18.949 216.968)">
+          <text id="Product_Name-2" data-name="Product Name" transform="translate(68.727 21.031)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-71.126" y="0">Product Name</tspan></text>
+          <text id="_50.00_INR-18" data-name="50.00 INR" transform="translate(68.727 45.031)" fill="#264b8c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+        </g>
+        <rect id="_1-2" data-name="1" width="83" height="115" transform="translate(46.676 30)" fill="url(#pattern-27)"/>
+      </g>
+      <g id="Group_56" data-name="Group 56" transform="translate(550.408 4091)">
+        <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="87.5" cy="87" rx="87.5" ry="87" transform="translate(-0.408)" fill="#f5fbf9"/>
+        <g id="Group_52" data-name="Group 52" transform="translate(18.002 216.968)">
+          <text id="Product_Name-3" data-name="Product Name" transform="translate(68.59 21.031)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-71.126" y="0">Product Name</tspan></text>
+          <text id="_50.00_INR-19" data-name="50.00 INR" transform="translate(68.59 45.031)" fill="#264b8c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+        </g>
+        <rect id="_1-3" data-name="1" width="45" height="115" transform="translate(64.592 30)" fill="url(#pattern-28)"/>
+      </g>
+      <g id="Group_55" data-name="Group 55" transform="translate(345.704 4091)">
+        <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="87.5" cy="87" rx="87.5" ry="87" transform="translate(0.296)" fill="#f5fbf9"/>
+        <g id="Group_50" data-name="Group 50" transform="translate(18.949 216.968)">
+          <text id="Product_Name-4" data-name="Product Name" transform="translate(69.347 21.031)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-71.126" y="0">Product Name</tspan></text>
+          <text id="_50.00_INR-20" data-name="50.00 INR" transform="translate(69.347 45.031)" fill="#264b8c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+        </g>
+        <image id="electronic-item-repair-500x500" width="110" height="110" transform="translate(33.296 32)" xlink:href="Ayush%20mart%20-%20Homepage-image23.png"/>
+      </g>
+      <g id="Group_54" data-name="Group 54" transform="translate(142 4091)">
+        <g id="Group_49-16" data-name="Group 49" transform="translate(18.002 216.968)">
+          <text id="Product_Name-5" data-name="Product Name" transform="translate(68.998 21.031)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-71.126" y="0">Product Name</tspan></text>
+          <text id="_50.00_INR-21" data-name="50.00 INR" transform="translate(68.998 45.031)" fill="#264b8c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+        </g>
+        <g id="Group_1537" data-name="Group 1537">
+          <circle id="Ellipse_7" data-name="Ellipse 7" cx="87" cy="87" r="87" fill="#f5fbf9"/>
+          <image id="Cosmetics-3" data-name="Cosmetics" width="112" height="112" transform="translate(31 31)" xlink:href="Ayush%20mart%20-%20Homepage-image24.png"/>
+        </g>
+      </g>
+      <g id="Group_63" data-name="Group 63" transform="translate(3 1248)">
+        <g id="Group_48" data-name="Group 48" transform="translate(0 877)">
+          <text id="Featured_Products" data-name="Featured Products" transform="translate(139 1851)" fill="#2f4858" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Featured Products</tspan></text>
+          <text id="Quis_dolor_ad_mollit_nulla_enim_incididunt_ut_ea_et_ipsum_magna._Est_amet_velit_non_velit_aute.-4" data-name="Quis dolor ad mollit nulla enim incididunt ut ea et ipsum magna. Est amet velit non velit aute." transform="translate(139 1880)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Quis dolor ad mollit nulla enim incididunt ut ea et ipsum </tspan><tspan x="0" y="35">magna. Est amet velit non velit aute.</tspan></text>
+        </g>
+        <g id="Group_62" data-name="Group 62" transform="translate(495 5)">
+          <g id="Group_60" data-name="Group 60">
+            <circle id="Ellipse_12" data-name="Ellipse 12" cx="39.5" cy="39.5" r="39.5" transform="translate(548 2699)" fill="#fff"/>
+            <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right" transform="translate(578 2729)">
+              <path id="Path_30" data-name="Path 30" d="M29.125,22.5H9.375" transform="translate(-9.375 -12.625)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_31" data-name="Path 31" d="M31.231,9.375,22.5,19.25l8.731,9.875" transform="translate(-22.5 -9.375)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g id="Group_61" data-name="Group 61" transform="translate(647 2699)">
+            <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="39.5" cy="39.5" r="39.5" fill="#fff"/>
+            <g id="Icon_feather-arrow-right-2" data-name="Icon feather-arrow-right" transform="translate(29.001 29.251)">
+              <path id="Path_30-2" data-name="Path 30" d="M9.375,22.5H29.123" transform="translate(-9.375 -12.626)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_31-2" data-name="Path 31" d="M22.5,9.375l9.874,9.874L22.5,29.123" transform="translate(-12.626 -9.375)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1355" data-name="Group 1355" transform="translate(0 1100)">
+      <g id="Group_1344" data-name="Group 1344" transform="translate(0 1675)">
+        <rect id="Rectangle_10-2" data-name="Rectangle 10" width="1366" height="259" transform="translate(0 2316)" fill="#06231a"/>
+        <rect id="_1-4" data-name="1" width="1366" height="259" transform="translate(0 2316)" opacity="0.02" fill="url(#pattern-18)"/>
+      </g>
+      <g id="Group_1346" data-name="Group 1346" transform="translate(191 -44)">
+        <text id="Subscribe_Our_Newslatter" data-name="Subscribe Our Newslatter" transform="translate(492 4138)" fill="#fff" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-209.47" y="0">Subscribe Our Newslatter</tspan></text>
+        <g id="Group_1345" data-name="Group 1345" transform="translate(-69 3623)">
+          <g id="Rectangle_5-46" data-name="Rectangle 5" transform="translate(313 553)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="0.5">
+            <path d="M25,0H414a0,0,0,0,1,0,0V50a0,0,0,0,1,0,0H25A25,25,0,0,1,0,25v0A25,25,0,0,1,25,0Z" stroke="none"/>
+            <path d="M25,.25H413.5a.25.25,0,0,1,.25.25v49a.25.25,0,0,1-.25.25H25A24.75,24.75,0,0,1,.25,25v0A24.75,24.75,0,0,1,25,.25Z" fill="none"/>
+          </g>
+          <text id="Search_carrots_apple_etc_" data-name="Search carrots, apple etc …… " transform="translate(423 583)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="-76.676" y="0">Search carrots, apple etc …… </tspan></text>
+          <g id="Group_1459" data-name="Group 1459" transform="translate(645 553)">
+            <rect id="Rectangle_5-47" data-name="Rectangle 5" width="164" height="50" rx="25" fill="#55c19f"/>
+            <text id="Start_Shopping-2" data-name="Start Shopping" transform="translate(82 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-46.001" y="0">Start Shopping</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1566" data-name="Group 1566" transform="translate(0 -2166)">
+      <g id="Group_1513-2" data-name="Group 1513" transform="translate(0 2150)">
+        <text id="Combo_Offer_Zone" data-name="Combo Offer Zone" transform="translate(139 1068)" fill="#2f4858" font-size="35" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Combo Offer Zone</tspan></text>
+        <g id="Component_3_3" data-name="Component 3 – 3" transform="translate(1085 1031)">
+          <g id="Rectangle_5-48" data-name="Rectangle 5" fill="rgba(255,255,255,0)" stroke="#264b8c" stroke-width="2">
+            <rect width="142" height="50" rx="25" stroke="none"/>
+            <rect x="1" y="1" width="140" height="48" rx="24" fill="none"/>
+          </g>
+          <text id="View_All-3" data-name="View All" transform="translate(70 30)" fill="#264b8c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-24.94" y="0">View All</tspan></text>
+        </g>
+      </g>
+      <g id="Group_1531-2" data-name="Group 1531" transform="translate(0 -92)">
+        <g id="Group_1530-2" data-name="Group 1530" transform="translate(0 6)">
+          <g id="Group_1529-2" data-name="Group 1529">
+            <rect id="_61SUm5xoQRL._UL1024_" data-name="61SUm5xoQRL._UL1024_" width="250" height="302" rx="5" transform="translate(143 3390)" fill="url(#pattern-30)"/>
+            <g id="Group_1489-17" data-name="Group 1489" transform="translate(142.922 3746)">
+              <text id="_50.00_INR-22" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+              <text id="_75.00_INR-17" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+            </g>
+            <g id="Group_1493-17" data-name="Group 1493" transform="translate(142.922 3781)">
+              <g id="Component_1_34" data-name="Component 1 – 34" transform="translate(155.493 -1.468)">
+                <g id="Rectangle_5-49" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                  <rect width="91.667" height="50" rx="25" stroke="none"/>
+                  <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                </g>
+                <g id="Icon_feather-shopping-cart-8" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                  <path id="Path_90-6" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  <path id="Path_91-6" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  <path id="Path_92-6" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                </g>
+              </g>
+              <g id="Group_1492-17" data-name="Group 1492" transform="translate(0.078)">
+                <g id="Component_1_35" data-name="Component 1 – 35" transform="translate(0)">
+                  <rect id="Rectangle_5-50" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                  <text id="Buy_Now-17" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1522-2" data-name="Group 1522">
+              <g id="Group_1521-5" data-name="Group 1521">
+                <text id="Combo_offer_Name" data-name="Combo offer Name" transform="translate(143 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Combo offer Name</tspan></text>
+                <g id="Group_49-17" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-18" data-name="Group 1489" transform="translate(0 54)">
+                    <text id="_50.00_INR-23" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <g id="Group_1551-2" data-name="Group 1551">
+                      <text id="_80.00_INR-12" data-name="80.00 INR" transform="translate(225.078 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                      <text id="APV-12" data-name="APV" transform="translate(180.078 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                    </g>
+                    <text id="_75.00_INR-18" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-18" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_36" data-name="Component 1 – 36" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-51" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-9" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-7" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-7" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-7" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-18" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_37" data-name="Component 1 – 37" transform="translate(0)">
+                    <rect id="Rectangle_5-52" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-18" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1543-2" data-name="Group 1543" transform="translate(348.607 3404.685)">
+              <ellipse id="Ellipse_14-15" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-15" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1547-2" data-name="Group 1547">
+              <path id="Rectangle_149-5" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0-5" data-name="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+          <g id="Group_1528-2" data-name="Group 1528">
+            <rect id="maxresdefault" width="250" height="302" rx="5" transform="translate(420 3390)" fill="url(#pattern-32)"/>
+            <g id="Group_1523-2" data-name="Group 1523" transform="translate(277)">
+              <g id="Group_1521-6" data-name="Group 1521">
+                <text id="Combo_offer_Name-2" data-name="Combo offer Name" transform="translate(143 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Combo offer Name</tspan></text>
+                <g id="Group_49-18" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-19" data-name="Group 1489" transform="translate(0.078 54)">
+                    <text id="_50.00_INR-24" data-name="50.00 INR" transform="translate(31 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <text id="_75.00_INR-19" data-name="75.00 INR" transform="translate(94 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                  </g>
+                  <g id="Group_1552-2" data-name="Group 1552" transform="translate(164.173 54)">
+                    <text id="_80.00_INR-13" data-name="80.00 INR" transform="translate(53.905 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                    <text id="APV-13" data-name="APV" transform="translate(8.905 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-19" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_38" data-name="Component 1 – 38" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-53" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-10" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-8" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-8" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-8" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-19" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_39" data-name="Component 1 – 39" transform="translate(0)">
+                    <rect id="Rectangle_5-54" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-19" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1544-2" data-name="Group 1544" transform="translate(625.607 3404.685)">
+              <ellipse id="Ellipse_14-16" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-16" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1548-2" data-name="Group 1548" transform="translate(277)">
+              <path id="Rectangle_149-6" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0-6" data-name="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+          <g id="Group_1527-2" data-name="Group 1527">
+            <rect id="mi-max-2-mobile-500x500" width="250" height="302" rx="5" transform="translate(696 3390)" fill="url(#pattern-34)"/>
+            <g id="Group_1524-2" data-name="Group 1524" transform="translate(554)">
+              <g id="Group_1521-7" data-name="Group 1521">
+                <text id="Combo_offer_Name-3" data-name="Combo offer Name" transform="translate(143 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Combo offer Name</tspan></text>
+                <g id="Group_49-19" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-20" data-name="Group 1489" transform="translate(0 54)">
+                    <text id="_50.00_INR-25" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <text id="_75.00_INR-20" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                    <g id="Group_1553-2" data-name="Group 1553" transform="translate(164.173 1)">
+                      <text id="_80.00_INR-14" data-name="80.00 INR" transform="translate(53.905 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                      <text id="APV-14" data-name="APV" transform="translate(8.905 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-20" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_40" data-name="Component 1 – 40" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-55" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-11" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-9" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-9" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-9" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-20" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_41" data-name="Component 1 – 41" transform="translate(0)">
+                    <rect id="Rectangle_5-56" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-20" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1545-2" data-name="Group 1545" transform="translate(901.607 3404.685)">
+              <ellipse id="Ellipse_14-17" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-17" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1549-2" data-name="Group 1549" transform="translate(553)">
+              <path id="Rectangle_149-7" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0-7" data-name="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+          <g id="Group_1526-2" data-name="Group 1526">
+            <rect id="r0_236_4608_2837_w1200_h678_fmax" width="250" height="302" rx="5" transform="translate(974 3390)" fill="url(#pattern-36)"/>
+            <g id="Group_1525-2" data-name="Group 1525" transform="translate(831)">
+              <g id="Group_1521-8" data-name="Group 1521">
+                <text id="Combo_offer_Name-4" data-name="Combo offer Name" transform="translate(143 3733)" fill="#1a1a1a" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Combo offer Name</tspan></text>
+                <g id="Group_49-20" data-name="Group 49" transform="translate(142.922 3692)">
+                  <g id="Group_1489-21" data-name="Group 1489" transform="translate(0 54)">
+                    <text id="_50.00_INR-26" data-name="50.00 INR" transform="translate(31.078 14)" fill="#55c19f" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">50.00 INR</tspan></text>
+                    <text id="_75.00_INR-21" data-name="75.00 INR" transform="translate(94.078 15)" fill="#aaa" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" text-decoration="line-through"><tspan x="-23.037" y="0">75.00 INR</tspan></text>
+                    <g id="Group_1554-2" data-name="Group 1554" transform="translate(167.173)">
+                      <text id="_80.00_INR-15" data-name="80.00 INR" transform="translate(53.905 14)" fill="#666" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-32.252" y="0">80.00 INR</tspan></text>
+                      <text id="APV-15" data-name="APV" transform="translate(8.905 15)" fill="#666" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-8.93" y="0">APV</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_1493-21" data-name="Group 1493" transform="translate(142.922 3781)">
+                <g id="Component_1_42" data-name="Component 1 – 42" transform="translate(155.493 -1.468)">
+                  <g id="Rectangle_5-57" data-name="Rectangle 5" transform="translate(0 0)" fill="rgba(38,75,140,0)" stroke="#264b8c" stroke-width="2">
+                    <rect width="91.667" height="50" rx="25" stroke="none"/>
+                    <rect x="1" y="1" width="89.667" height="48" rx="24" fill="none"/>
+                  </g>
+                  <g id="Icon_feather-shopping-cart-12" data-name="Icon feather-shopping-cart" transform="translate(37.333 17.333)">
+                    <path id="Path_90-10" data-name="Path 90" d="M6.667,14A.667.667,0,1,1,6,13.333.667.667,0,0,1,6.667,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_91-10" data-name="Path 91" d="M14,14a.667.667,0,1,1-.667-.667A.667.667,0,0,1,14,14Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                    <path id="Path_92-10" data-name="Path 92" d="M.667.667H3.333L5.12,9.593a1.333,1.333,0,0,0,1.333,1.073h6.48a1.333,1.333,0,0,0,1.333-1.073L15.333,4H4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  </g>
+                </g>
+                <g id="Group_1492-21" data-name="Group 1492" transform="translate(0.078)">
+                  <g id="Component_1_43" data-name="Component 1 – 43" transform="translate(0)">
+                    <rect id="Rectangle_5-58" data-name="Rectangle 5" width="147" height="50" rx="25" fill="#264b8c"/>
+                    <text id="Buy_Now-21" data-name="Buy Now" transform="translate(74 30)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.682" y="0">Buy Now</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1546-2" data-name="Group 1546" transform="translate(1181.607 3402.685)">
+              <ellipse id="Ellipse_14-18" data-name="Ellipse 14" cx="14.5" cy="14" rx="14.5" ry="14" transform="translate(0.393 0.315)" fill="#fff"/>
+              <path id="Icon_feather-heart-18" data-name="Icon feather-heart" d="M9.8,2.731a2.5,2.5,0,0,0-3.536,0l-.482.482L5.3,2.731A2.5,2.5,0,1,0,1.765,6.267l.482.482,3.536,3.536L9.318,6.749,9.8,6.267a2.5,2.5,0,0,0,0-3.536Z" transform="translate(9.716 7.886)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Group_1550-2" data-name="Group 1550" transform="translate(831)">
+              <path id="Rectangle_149-8" data-name="Rectangle 149" d="M0,0H116a8,8,0,0,1,8,8V36a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(143 3656)" fill="#fff"/>
+              <rect id="earth-2.0-8" data-name="earth-2.0" width="91.741" height="21" transform="translate(159 3664)" fill="url(#pattern-20)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1372" data-name="Group 1372" transform="translate(-1 637)">
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="1366" height="539" transform="translate(0 4713)" fill="#f5fbf9"/>
+      <g id="Group_1370" data-name="Group 1370" transform="translate(7 -1)">
+        <g id="Group_1368" data-name="Group 1368" transform="translate(183 4769)">
+          <g id="Group_1009" data-name="Group 1009" transform="translate(221.433)">
+            <text id="Help" transform="translate(-0.433 25)" fill="#2f4858" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Help</tspan></text>
+            <text id="Terms_Condition_FAQs_Other" data-name="Terms &amp; Condition
+FAQs
+Other" transform="translate(-0.433 71)" fill="#666" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Terms &amp; Condition</tspan><tspan x="0" y="35">FAQs</tspan><tspan x="0" y="70">Other</tspan></text>
+          </g>
+          <g id="Group_1367" data-name="Group 1367">
+            <text id="About" transform="translate(0 25)" fill="#2f4858" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">About</tspan></text>
+            <text id="Contact_Us_About_Us_Mission_Vision_Offers" data-name="Contact Us
+About Us
+Mission
+Vision
+Offers" transform="translate(0 71)" fill="#666" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact Us</tspan><tspan x="0" y="35">About Us</tspan><tspan x="0" y="70">Mission</tspan><tspan x="0" y="105">Vision</tspan><tspan x="0" y="140">Offers</tspan></text>
+          </g>
+          <g id="Group_1006" data-name="Group 1006" transform="translate(446.451)">
+            <text id="Policy" transform="translate(-0.451 25)" fill="#2f4858" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Policy</tspan></text>
+            <text id="Return_Policy_Help_Support" data-name="Return Policy
+Help
+Support" transform="translate(-0.451 71)" fill="#666" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Return Policy</tspan><tspan x="0" y="35">Help</tspan><tspan x="0" y="70">Support</tspan></text>
+          </g>
+        </g>
+        <g id="Group_1007" data-name="Group 1007" transform="translate(897 4769)">
+          <text id="Get_In_Touch" data-name="Get In Touch" transform="translate(0 25)" fill="#2f4858" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Get In Touch</tspan></text>
+          <g id="Group_1369" data-name="Group 1369" transform="translate(0 53)">
+            <text id="Ayush_Mart_" data-name="Ayush Mart " transform="translate(0 18)" fill="#666" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Ayush Mart </tspan></text>
+            <text id="_15-3_Junction_plot_Shree_Krishna_krupa_Rajkot_-_360001" data-name="15-3 Junction plot 
+&quot;Shree Krishna krupa&quot;  Rajkot - 360001" transform="translate(0 35)" fill="#666" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">15-3 Junction plot </tspan><tspan x="0" y="40" xml:space="preserve">&quot;Shree Krishna krupa&quot;  Rajkot - 360001</tspan></text>
+            <g id="Group_1450" data-name="Group 1450" transform="translate(-1025.168 65)">
+              <g id="Group_1445" data-name="Group 1445" transform="translate(-77.406 33)">
+                <text id="demo_gmail.com_" data-name="demo@gmail.com " transform="translate(1199.575 48)" fill="#666" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-62.681" y="0">demo@gmail.com </tspan></text>
+                <g id="Icon_feather-mail" data-name="Icon feather-mail" transform="translate(1102.648 35)">
+                  <path id="Path_55" data-name="Path 55" d="M2.667,2.667H13.333A1.337,1.337,0,0,1,14.667,4v8a1.337,1.337,0,0,1-1.333,1.333H2.667A1.337,1.337,0,0,1,1.333,12V4A1.337,1.337,0,0,1,2.667,2.667Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                  <path id="Path_56" data-name="Path 56" d="M14.667,4,8,8.667,1.333,4" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+                </g>
+              </g>
+              <g id="Group_1444" data-name="Group 1444" transform="translate(66 1)">
+                <text id="_91_-_75670_65XXX" data-name="(+91) - 75670 65XXX" transform="translate(1058.168 48)" fill="#666" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-68.478" y="0">(+91) - 75670 65XXX</tspan></text>
+                <path id="Icon_feather-phone-call" data-name="Icon feather-phone-call" d="M10.033,3.333a3.333,3.333,0,0,1,2.633,2.633M10.033.667a6,6,0,0,1,5.3,5.293m-.667,5.32v2a1.333,1.333,0,0,1-1.453,1.333A13.193,13.193,0,0,1,7.46,12.567a13,13,0,0,1-4-4,13.193,13.193,0,0,1-2.047-5.78A1.333,1.333,0,0,1,2.74,1.333h2A1.333,1.333,0,0,1,6.073,2.48,8.56,8.56,0,0,0,6.54,4.353a1.333,1.333,0,0,1-.3,1.407l-.847.847a10.667,10.667,0,0,0,4,4l.847-.847a1.333,1.333,0,0,1,1.407-.3,8.56,8.56,0,0,0,1.873.467A1.333,1.333,0,0,1,14.667,11.28Z" transform="translate(957.76 34.833)" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_1534" data-name="Group 1534" transform="translate(-12)">
+            <g transform="matrix(1, 0, 0, 1, -891, -5405)" filter="url(#Ellipse_21)">
+              <circle id="Ellipse_21-2" data-name="Ellipse 21" cx="23" cy="23" r="23" transform="translate(903 5636)" fill="#fff"/>
+            </g>
+            <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M7.244,7.338l.362-2.361H5.341V3.445A1.18,1.18,0,0,1,6.672,2.169H7.7V.159A12.558,12.558,0,0,0,5.874,0,2.882,2.882,0,0,0,2.789,3.178v1.8H.715V7.338H2.789v5.707H5.341V7.338Z" transform="translate(31.076 247.478)" fill="#264b8c"/>
+          </g>
+          <g id="Group_1535" data-name="Group 1535" transform="translate(-3)">
+            <g transform="matrix(1, 0, 0, 1, -900, -5405)" filter="url(#Ellipse_22)">
+              <circle id="Ellipse_22-2" data-name="Ellipse 22" cx="23" cy="23" r="23" transform="translate(964 5636)" fill="#fff"/>
+            </g>
+            <path id="Icon_ionic-logo-twitter" data-name="Icon ionic-logo-twitter" d="M15.375,3.422a6.117,6.117,0,0,1-1.738.478,3.036,3.036,0,0,0,1.331-1.675,6.012,6.012,0,0,1-1.922.734A3.025,3.025,0,0,0,7.812,5.028a2.962,2.962,0,0,0,.078.691A8.574,8.574,0,0,1,1.653,2.553,3.032,3.032,0,0,0,2.594,6.6a2.955,2.955,0,0,1-1.375-.378v.037A3.028,3.028,0,0,0,3.647,9.225a3.046,3.046,0,0,1-.8.106,2.854,2.854,0,0,1-.569-.056,3.03,3.03,0,0,0,2.828,2.1,6.066,6.066,0,0,1-3.759,1.3,6.133,6.133,0,0,1-.722-.044A8.457,8.457,0,0,0,5.259,14a8.557,8.557,0,0,0,8.616-8.619c0-.131,0-.262-.009-.391A6.159,6.159,0,0,0,15.375,3.422Z" transform="translate(79.372 246)" fill="#264b8c"/>
+          </g>
+          <g id="Group_1536" data-name="Group 1536" transform="translate(-21)">
+            <g transform="matrix(1, 0, 0, 1, -882, -5405)" filter="url(#Ellipse_23)">
+              <circle id="Ellipse_23-2" data-name="Ellipse 23" cx="23" cy="23" r="23" transform="translate(1025 5636)" fill="#fff"/>
+            </g>
+            <g id="Icon_feather-instagram" data-name="Icon feather-instagram" transform="translate(158.667 245.667)">
+              <path id="Path_93" data-name="Path 93" d="M4.667,1.333h6.667a3.333,3.333,0,0,1,3.333,3.333v6.667a3.333,3.333,0,0,1-3.333,3.333H4.667a3.333,3.333,0,0,1-3.333-3.333V4.667A3.333,3.333,0,0,1,4.667,1.333Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+              <path id="Path_94" data-name="Path 94" d="M10.667,7.58A2.667,2.667,0,1,1,8.42,5.333,2.667,2.667,0,0,1,10.667,7.58Z" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+              <path id="Path_95" data-name="Path 95" d="M11.667,4.333h0" fill="none" stroke="#264b8c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333"/>
+            </g>
+          </g>
+        </g>
+        <line id="Line_4" data-name="Line 4" y2="314" transform="translate(808.5 4769.5)" fill="none" stroke="#707070" stroke-width="0.2"/>
+      </g>
+      <g id="Group_1371" data-name="Group 1371" transform="translate(0 60)">
+        <g id="Group_1365" data-name="Group 1365" transform="translate(0 -82)">
+          <g id="Group_18-2" data-name="Group 18" transform="translate(121 5151)">
+            <text id="Service_Provide" data-name="Service Provide" transform="translate(47 17)" fill="#1a1a1a" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Service Provide</tspan></text>
+            <g id="Icon_feather-shopping-cart-13" data-name="Icon feather-shopping-cart">
+              <path id="Path_6-2" data-name="Path 6" d="M10,21a1,1,0,1,1-1-1A1,1,0,0,1,10,21Z" transform="translate(-1 -1)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <path id="Path_7-2" data-name="Path 7" d="M21,21a1,1,0,1,1-1-1A1,1,0,0,1,21,21Z" transform="translate(-1 -1)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <path id="Path_8-2" data-name="Path 8" d="M1,1H5L7.68,14.39a2,2,0,0,0,2,1.61H19.4a2,2,0,0,0,2-1.61L23,6H6" transform="translate(-1 -1)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_19-2" data-name="Group 19" transform="translate(375 5150)">
+            <text id="Free_Shipping_" data-name="Free Shipping " transform="translate(47.5 17)" fill="#1a1a1a" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Free Shipping </tspan></text>
+            <g id="Icon_feather-truck-2" data-name="Icon feather-truck" transform="translate(0 2)">
+              <path id="Path_9-2" data-name="Path 9" d="M1,3H16V16H1Z" transform="translate(-1 -3)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <path id="Path_10-2" data-name="Path 10" d="M16,8h4l3,3v5H16Z" transform="translate(-1 -3)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <path id="Path_11-2" data-name="Path 11" d="M8,18.5A2.5,2.5,0,1,1,5.5,16,2.5,2.5,0,0,1,8,18.5Z" transform="translate(-1 -3)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <path id="Path_12-2" data-name="Path 12" d="M21,18.5A2.5,2.5,0,1,1,18.5,16,2.5,2.5,0,0,1,21,18.5Z" transform="translate(-1 -3)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+          <g id="Group_20-2" data-name="Group 20" transform="translate(621 5150)">
+            <text id="Help_Center" data-name="Help Center" transform="translate(47 17)" fill="#1a1a1a" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Help Center</tspan></text>
+            <g id="Icon_feather-credit-card-3" data-name="Icon feather-credit-card" transform="translate(0 3)">
+              <path id="Path_13-2" data-name="Path 13" d="M3,4H21a2,2,0,0,1,2,2V18a2,2,0,0,1-2,2H3a2,2,0,0,1-2-2V6A2,2,0,0,1,3,4Z" transform="translate(-1 -4)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <path id="Path_14-2" data-name="Path 14" d="M1,10H23" transform="translate(-1 -4)" fill="none" stroke="#2f4858" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <rect id="a756897386ff1843607f093175428fdd" width="293" height="27" transform="translate(934 5065)" fill="url(#pattern-38)"/>
+      </g>
+      <line id="Line_5" data-name="Line 5" x2="1366" transform="translate(1.5 5084.5)" fill="none" stroke="#707070" stroke-width="0.2"/>
+      <line id="Line_13" data-name="Line 13" x2="1366" transform="translate(1.5 5192.5)" fill="none" stroke="#707070" stroke-width="0.2"/>
+      <g id="Group_1539" data-name="Group 1539" transform="translate(0 -9)">
+        <text id="All_right_Reserved_by_Ayush_mart" data-name="All right Reserved by Ayush mart" transform="translate(121 5234)" fill="#1a1a1a" font-size="15" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">All right Reserved by Ayush mart</tspan></text>
+        <text id="Developed_And_Design_By_:_Company_Name" data-name="Developed And Design By : Company Name" transform="translate(908 5234)" fill="#1a1a1a" font-size="15" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Developed And Design By : Company Name</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
