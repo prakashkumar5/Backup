@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <title>Home page</title> 
+        <link rel="shortcut icon" href="public/images/favicon.ico" type="image/x-icon">    
+        <link href="public/css/bootstrap.min.css" rel="stylesheet"/>
+        <link href="public/css/style.css" rel="stylesheet" />
+        <link href="public/css/media_style.css" rel="stylesheet" />
+    </head>
+    <body> 
+      <div class="container">
+       <div class="row login_page">
+         <div class="col-md-7 left_side">
+
+         </div>
+         <div class="col-md-5 right_side">
+           <div class="right_content">
+             <form id="form">
+               <h1>LOG IN</h1>
+               <div class="form_group">
+                <input type="email" id="email" name="email" placeholder="Email id" required="" autocomplete="off">
+               </div>
+               <div class="form_group">
+                <input type="password" id="password" name="password" placeholder="Password" required="" autocomplete="off">
+               </div>
+               <div class="form_group d-flex">
+                  <div class="remember_outter">
+                    <label class="remember_label"><label>Remember Me<span class="checkmark"></span></label>
+                    <input type="checkbox" name="status_color" value="0" onchange="all_booking_manage_list_all()">
+                    <span class="checkmark"></span>
+                    </label>
+                  </div>
+                  <div class="forgot_outter">
+                    <a class="forgot" href="#" title="Forgot Password">Forgot Password ?</a>
+                  </div>
+               </div>
+               <div class="form_group">
+                <button type="submit"  class="login_but" id="log_but"><span>Login</span></button> 
+               </div>
+               <div class="form_group">
+                 <span class="new_user">New here ? &nbsp;<a class="" href="#" title="Sign up">Sign up</a></span>
+               </div>
+             </form>
+           </div>
+         </div>
+        <div class="footer">
+          <sapn>
+            <img src="public/images/logo.png" alt="Indus">
+          </sapn>
+        </div>
+    </div> 
+    </body>
+      <script src="public/js/jquery.min.js"></script> 
+      <script src="public/js/scripts.js"></script> 
+</html>
