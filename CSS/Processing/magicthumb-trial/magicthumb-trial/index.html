@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+<title>Magic Thumb</title>
+
+<link href="magicthumb/magicthumb.css" rel="stylesheet" type="text/css" media="screen"/>
+<script src="magicthumb/magicthumb.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+    var MagicThumbOptions = {};
+    MagicThumbOptions = {
+        onReady: function() {
+            console.log('onReady', arguments[0]);
+        },
+        onLoad: function() {
+            console.log('onLoad', arguments[0]);
+        },
+        onExpand: function() {
+            console.log('onExpand', arguments[0]);
+        },
+        onClose: function() {
+            console.log('onClose', arguments[0]);
+        },
+        onSwap: function() {
+            console.log('onSwap', arguments[0]);
+        },
+        onExpandSwap: function() {
+            console.log('onExpandSwap', arguments[0]);
+        }
+    };
+    var MagicThumbMobileOptions = {};
+
+    var callbacksContainer = Object.assign({}, MagicThumbOptions);
+
+    function isDefaultOption(o) {
+        return magicJS.$A(magicJS.$(o).byTag('option')).filter(function(opt){
+            return opt.selected && opt.defaultSelected;
+        }).length > 0;
+    }
+
+    function toOptionValue(v) {
+        if ( /^(true|false)$/.test(v) ) {
+            return 'true' === v;
+        }
+        if ( /^[0-9]{1,}$/i.test(v) ) {
+            return parseInt(v,10);
+        }
+        return v;
+    }
+
+    function isEmpty(obj) {
+        var result = true;
+        for (var prop in obj) {
+            if(obj.hasOwnProperty(prop)) {
+                result = false;
+                break;
+            }
+        }
+        return result;
+    }
+
+    function makeOptions(optType) {
+        var  value = null, isDefault = true, newParams = Array(), newParamsS = '', options = {};
+        magicJS.$(magicJS.$A(magicJS.$(optType).getElementsByTagName("INPUT"))
+            .concat(magicJS.$A(magicJS.$(optType).getElementsByTagName('SELECT'))))
+            .forEach(function(param){
+                value = ('checkbox'==param.type) ? param.checked.toString() : param.value;
+
+                isDefault = ('checkbox'==param.type) ? value == param.defaultChecked.toString() :
+                    ('SELECT'==param.tagName) ? isDefaultOption(param) : value == param.defaultValue;
+
+                if ( null !== value && !isDefault) {
+                    options[param.name] = toOptionValue(value);
+                }
+        });
+        return options;
+    }
+
+    function getScriptOptions(options) {
+        var tabSpace = "&nbsp;&nbsp;&nbsp;&nbsp;";
+        return JSON.stringify(options, null, 2).replace(/\"(\w+)\":/g,tabSpace+"$1:")+';';
+    }
+
+    function updateScriptCode() {
+        var code = '&lt;script&gt;'
+
+        // if (!isEmpty(MagicThumbOptions)) {
+            code += ('\nvar MagicThumbOptions = ' + getScriptOptions(MagicThumbOptions));
+        // }
+
+        if (!isEmpty(MagicThumbMobileOptions)) {
+            code += ('\nvar MagicThumbMobileOptions = ' + getScriptOptions(MagicThumbMobileOptions));
+        }
+
+        code += '\n&lt;/script&gt;';
+
+        magicJS.$('app-code-sample-script').changeContent(code);
+    }
+
+    function getInlineOptions(options) {
+        return JSON.stringify(options).replace(/\"(\w+)\":(?:\"([^"]+)\"|([^,}]+))(,)?/g, "$1: $2$3; ").replace(/\{([^{}]*)\}/,"$1").replace(/\s*$/,'');
+    }
+
+    function updateInlineCode() {
+        var code = '&lt;a class="MagicThumb"';
+
+        // if (!isEmpty(MagicThumbOptions)) {
+            code += (' data-options="' + getInlineOptions(MagicThumbOptions) + '"');
+        // }
+
+        if (!isEmpty(MagicThumbMobileOptions)) {
+            code += (' data-mobile-options="' + getInlineOptions(MagicThumbMobileOptions) + '"');
+        }
+        code += ' &gt;';
+
+        magicJS.$('app-code-sample-inline').changeContent(code);
+    }
+
+    function applySettings() {
+        MagicThumb.stop('mgt-1');
+        MagicThumbOptions = Object.assign(makeOptions('params'), callbacksContainer);
+        MagicThumbMobileOptions = makeOptions('mobile-params');
+        MagicThumb.start('mgt-1');
+        updateScriptCode();
+        updateInlineCode();
+        try {
+            prettyPrint();
+        } catch(e) {}
+    }
+
+    function copyToClipboard(src) {
+        var
+            copyNode,
+            range, success;
+
+        if (!isCopySupported()) {
+            disableCopy();
+            return;
+        }
+        copyNode = document.getElementById('code-to-copy');
+        copyNode.innerHTML = document.getElementById(src).innerHTML;
+
+        range = document.createRange();
+        range.selectNode(copyNode);
+        window.getSelection().addRange(range);
+
+        try {
+            success = document.execCommand('copy');
+        } catch(err) {
+            success = false;
+        }
+        window.getSelection().removeAllRanges();
+        if (!success) {
+            disableCopy();
+        } else {
+            new magicJS.Message('Settings code copied to clipboard.', 3000,
+                document.querySelector('.app-code-holder'), 'copy-msg');
+        }
+    }
+
+    function disableCopy() {
+        magicJS.$A(document.querySelectorAll('.cfg-btn-copy')).forEach(function(node) {
+            node.disabled = true;
+        });
+        new magicJS.Message('Sorry, cannot copy settings code to clipboard. Please select and copy code manually.', 3000,
+            document.querySelector('.app-code-holder'), 'copy-msg copy-msg-failed');
+    }
+
+    function isCopySupported() {
+        if ( !window.getSelection || !document.createRange || !document.queryCommandSupported ) { return false; }
+        return document.queryCommandSupported('copy');
+    }
+</script>
+</head>
+<body>
+<div class="preview col">
+    
+
+    <div class="app-figure" id="thumb-fig">
+        <a id="mgt-1" class="MagicThumb"
+           
+            href="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-1.jpg"
+        >
+            <img src="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-1.jpg?scale.height=400" alt=""/>
+        </a>
+        <div class="selectors" style="display: none;">
+            <a
+                 data-thumb-id="mgt-1"
+                 href="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-1.jpg"
+                 data-image="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-1.jpg?scale.height=400"
+             >
+                 <img srcset="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-1.jpg?scale.width=112 2x" src="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-1.jpg?scale.width=56"/>
+             </a>
+
+              
+             <a
+                  data-thumb-id="mgt-1"
+                  href="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-3.jpg"
+                  data-image="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-3.jpg?scale.height=400"
+              >
+                  <img srcset="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-3.jpg?scale.width=112 2x" src="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-3.jpg?scale.width=56"/>
+              </a>
+             <a
+                  data-thumb-id="mgt-1"
+                  href="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-4.jpg"
+                  data-image="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-4.jpg?scale.height=400"
+              >
+                  <img srcset="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-4.jpg?scale.width=112 2x" src="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-4.jpg?scale.width=56"/>
+              </a>
+             <a
+                  data-thumb-id="mgt-1"
+                  href="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-5.jpg"
+                  data-image="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-5.jpg?scale.height=400"
+              >
+                  <img srcset="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-5.jpg?scale.width=112 2x" src="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-5.jpg?scale.width=56"/>
+              </a>
+             <a
+                  data-thumb-id="mgt-1"
+                  href="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-6.jpg"
+                  data-image="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-6.jpg?scale.height=400"
+              >
+                  <img srcset="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-6.jpg?scale.width=112 2x" src="https://magictoolbox.sirv.com/images/magicthumb/lunarepic-low-flyknit-mens-running-shoe-6.jpg?scale.width=56"/>
+              </a>
+        </div>
+    </div>
+ 
+</div>
+
+ 
+</body></html>
