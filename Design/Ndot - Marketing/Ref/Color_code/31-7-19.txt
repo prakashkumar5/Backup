@@ -1,0 +1,13 @@
+header - c2f4f6
+
+fotter - f1f5d2
+
+yELLOW - f5f9e6
+
+blue - 84a0fe
+
+Mild Red - faeced
+
+Mild orange - f37638
+
+violet - 6c2d8d

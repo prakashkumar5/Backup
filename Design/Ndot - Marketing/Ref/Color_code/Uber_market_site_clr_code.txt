@@ -1,0 +1,21 @@
+Uber Market site
+
+yellow - ffefd3
+
+Dark Yellow  - ffc043
+
+Blue - 276ef1
+
+ligth blue - 9cc0ff
+
+green - dff7e6
+
+Dark green - 47b274
+
+violet - eadfff
+
+Dark violet - 7356bf
+
+Black - 000000
+
+orange - ff7d49

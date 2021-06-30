@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_1485" data-name="Group 1485" viewBox="0 0 282.982 282.98">
+    <defs>
+        <style>
+            .cls-1{fill:#276ef1}.cls-2,.cls-4{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:7.644px}.cls-3{fill:#fff}.cls-4{stroke-linecap:round}.cls-5{fill:#9cc0ff}
+        </style>
+    </defs>
+    <ellipse id="Ellipse_138" cx="141.491" cy="141.491" class="cls-1" data-name="Ellipse 138" rx="141.491" ry="141.491"/>
+    <g id="Group_1484" data-name="Group 1484" transform="translate(94.611 46.335)">
+        <g id="Group_1483" data-name="Group 1483">
+            <path id="Path_2396" d="M168.091 57.235a28.394 28.394 0 1 0-33.053 45.365" class="cls-2" data-name="Path 2396" transform="translate(-100.944 -48.925)"/>
+            <g id="Group_1481" data-name="Group 1481" transform="translate(0 8.216)">
+                <g id="Group_1480" data-name="Group 1480">
+                    <g id="Group_1479" data-name="Group 1479" transform="translate(36.557 98.115)">
+                        <path id="Path_2397" d="M159.146 161.2v82.3l-5.3 5.3-10.046.1-5.3-5.3v-82.4z" class="cls-3" data-name="Path 2397" transform="translate(-138.5 -161.2)"/>
+                    </g>
+                    <path id="Path_2398" d="M193.659 141.4v-37.03a20.128 20.128 0 0 0-20.172-20.17h-53.415A20.128 20.128 0 0 0 99.9 104.372V141.4a46.926 46.926 0 0 0 46.88 46.879 46.865 46.865 0 0 0 46.879-46.879z" data-name="Path 2398" transform="translate(-99.9 -59.008)"/>
+                    <path id="Path_2399" d="M135.9 105.209A28.329 28.329 0 0 0 168.952 100" class="cls-4" data-name="Path 2399" transform="translate(-101.806 -59.845)"/>
+                    <path id="Path_2400" d="M170.8 97.755a28.408 28.408 0 0 0 0-40.155" class="cls-4" data-name="Path 2400" transform="translate(-103.653 -57.6)"/>
+                </g>
+            </g>
+            <g id="Group_1482" data-name="Group 1482" transform="translate(22.256 75.362)">
+                <ellipse id="Ellipse_139" cx="9.281" cy="9.281" class="cls-5" data-name="Ellipse 139" rx="9.281" ry="9.281"/>
+                <ellipse id="Ellipse_140" cx="9.281" cy="9.281" class="cls-3" data-name="Ellipse 140" rx="9.281" ry="9.281" transform="translate(15.342 22.256)"/>
+                <ellipse id="Ellipse_141" cx="9.281" cy="9.281" class="cls-1" data-name="Ellipse 141" rx="9.281" ry="9.281" transform="translate(30.685)"/>
+            </g>
+        </g>
+    </g>
+</svg>
